@@ -22,7 +22,10 @@
       "officeLines": [
         "161 Main North Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Georganas"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Georganas",
+      "mpid": "DZY",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=DZY",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DZY"
     },
     {
       "id": "house:aston",
@@ -45,7 +48,10 @@
         "Suite 4, Level 1",
         "420 Burwood Highway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Doyle"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Doyle",
+      "mpid": "299962",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=299962",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299962"
     },
     {
       "id": "house:ballarat",
@@ -69,7 +75,10 @@
       "officeLines": [
         "5 Lydiard Street North"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=King"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=King",
+      "mpid": "00AMR",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=00AMR",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AMR"
     },
     {
       "id": "house:banks",
@@ -91,7 +100,10 @@
       "officeLines": [
         "22 Revesby Place"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Soon"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Soon",
+      "mpid": "298618",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=298618",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298618"
     },
     {
       "id": "house:barker",
@@ -113,7 +125,10 @@
       "officeLines": [
         "27 Commercial Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Pasin"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Pasin",
+      "mpid": "240756",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=240756",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=240756"
     },
     {
       "id": "house:barton",
@@ -135,7 +150,10 @@
       "officeLines": [
         "Level 2, 24 Montgomery Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ambihaipahar"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ambihaipahar",
+      "mpid": "315618",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=315618",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=315618"
     },
     {
       "id": "house:bass",
@@ -157,7 +175,10 @@
       "officeLines": [
         "98-102 St John Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Teesdale"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Teesdale",
+      "mpid": "314526",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=314526",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=314526"
     },
     {
       "id": "house:bean",
@@ -181,7 +202,10 @@
       "officeLines": [
         "205 Anketell Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Smith"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Smith",
+      "mpid": "276714",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=276714",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=276714"
     },
     {
       "id": "house:bendigo",
@@ -203,7 +227,10 @@
       "officeLines": [
         "Cnr. Williamson & Myers Streets"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chesters"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chesters",
+      "mpid": "249710",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=249710",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249710"
     },
     {
       "id": "house:bennelong",
@@ -225,7 +252,10 @@
       "officeLines": [
         "32 Beecroft Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Laxale"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Laxale",
+      "mpid": "299174",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=299174",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299174"
     },
     {
       "id": "house:berowra",
@@ -247,7 +277,10 @@
       "officeLines": [
         "Level 11, 423 Pennant Hills Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Leeser"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Leeser",
+      "mpid": "109556",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=109556",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=109556"
     },
     {
       "id": "house:blair",
@@ -270,7 +303,10 @@
         "Level 1, The Tarpaulin Building",
         "2 The Terrace"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Neumann"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Neumann",
+      "mpid": "HVO",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=HVO",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HVO"
     },
     {
       "id": "house:blaxland",
@@ -294,7 +330,10 @@
       "officeLines": [
         "Suite 7 Level 1, 400 Chapel Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Clare"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Clare",
+      "mpid": "HWL",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=HWL",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWL"
     },
     {
       "id": "house:bonner",
@@ -316,7 +355,10 @@
       "officeLines": [
         "69 Clara Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cook"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cook",
+      "mpid": "316537",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316537",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316537"
     },
     {
       "id": "house:boothby",
@@ -338,7 +380,10 @@
       "officeLines": [
         "Shop 2, 670 ANZAC Highway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Miller-Frost"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Miller-Frost",
+      "mpid": "296272",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=296272",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=296272"
     },
     {
       "id": "house:bowman",
@@ -361,7 +406,10 @@
         "Ground floor,",
         "Unit 1 124, Queen Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Pike"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Pike",
+      "mpid": "300120",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300120",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300120"
     },
     {
       "id": "house:braddon",
@@ -383,7 +431,10 @@
       "officeLines": [
         "Shop 9, 22 Wilmot Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Urquhart"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Urquhart",
+      "mpid": "231199",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=231199",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=231199"
     },
     {
       "id": "house:bradfield",
@@ -405,7 +456,10 @@
       "officeLines": [
         "Suite 1, Level 2, 280 Pacific Highway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Boele"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Boele",
+      "mpid": "26417",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=26417",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=26417"
     },
     {
       "id": "house:brand",
@@ -431,7 +485,10 @@
         "Unit 1 & 2",
         "1-3 Kent Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=King"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=King",
+      "mpid": "102376",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=102376",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=102376"
     },
     {
       "id": "house:brisbane",
@@ -453,7 +510,10 @@
       "officeLines": [
         "349 Sandgate Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Jarrett"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Jarrett",
+      "mpid": "298574",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=298574",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298574"
     },
     {
       "id": "house:bruce",
@@ -481,7 +541,10 @@
       "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hill",
       "portfolio": [
         "citizenship-assistant"
-      ]
+      ],
+      "mpid": "86256",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=86256",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=86256"
     },
     {
       "id": "house:bullwinkel",
@@ -504,7 +567,10 @@
         "Unit 2 and 3",
         "14 -16 Mead Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cook"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cook",
+      "mpid": "312871",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=312871",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=312871"
     },
     {
       "id": "house:burt",
@@ -530,7 +596,10 @@
         "Unit 2",
         "2808 Albany Highway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Keogh"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Keogh",
+      "mpid": "249147",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=249147",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249147"
     },
     {
       "id": "house:calare",
@@ -552,7 +621,10 @@
       "officeLines": [
         "Suite  1/179A Anson Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gee"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gee",
+      "mpid": "261393",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=261393",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=261393"
     },
     {
       "id": "house:calwell",
@@ -574,7 +646,10 @@
       "officeLines": [
         "14 Dimboola Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Abdo"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Abdo",
+      "mpid": "316915",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316915",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316915"
     },
     {
       "id": "house:canberra",
@@ -596,7 +671,10 @@
       "officeLines": [
         "221 London Circuit"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Payne"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Payne",
+      "mpid": "144732",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=144732",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=144732"
     },
     {
       "id": "house:canning",
@@ -618,7 +696,10 @@
       "officeLines": [
         "Tenancy 1, 78 Pinjarra Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hastie"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hastie",
+      "mpid": "260805",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=260805",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=260805"
     },
     {
       "id": "house:capricornia",
@@ -642,7 +723,10 @@
       "officeLines": [
         "3/71-73 Denham Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Landry"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Landry",
+      "mpid": "249764",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=249764",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249764"
     },
     {
       "id": "house:casey",
@@ -664,7 +748,10 @@
       "officeLines": [
         "110-112 Main Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Violi"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Violi",
+      "mpid": "300147",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300147",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300147"
     },
     {
       "id": "house:chifley",
@@ -687,7 +774,10 @@
         "Shop 41, Plumpton Marketplace",
         "Cnr Hyatts and Jersey Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Husic"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Husic",
+      "mpid": "91219",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=91219",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=91219"
     },
     {
       "id": "house:chisholm",
@@ -709,7 +799,10 @@
       "officeLines": [
         "Ground Floor, 257 Blackburn Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Garland"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Garland",
+      "mpid": "295588",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=295588",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=295588"
     },
     {
       "id": "house:clark",
@@ -731,7 +824,10 @@
       "officeLines": [
         "188 Collins Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wilkie"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wilkie",
+      "mpid": "C2T",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=C2T",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=C2T"
     },
     {
       "id": "house:cook",
@@ -754,7 +850,10 @@
         "Suite 102, Level 1",
         "30 The Kingsway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Kennedy"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Kennedy",
+      "mpid": "267506",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=267506",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=267506"
     },
     {
       "id": "house:cooper",
@@ -779,7 +878,10 @@
       "officeLines": [
         "159 High Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Kearney"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Kearney",
+      "mpid": "LTU",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=LTU",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=LTU"
     },
     {
       "id": "house:corangamite",
@@ -801,7 +903,10 @@
       "officeLines": [
         "26/500-540 Torquay Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Coker"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Coker",
+      "mpid": "263547",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=263547",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=263547"
     },
     {
       "id": "house:corio",
@@ -827,7 +932,10 @@
         "Suite 1, Ground Floor",
         "92-100 Brougham Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Marles"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Marles",
+      "mpid": "HWQ",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=HWQ",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWQ"
     },
     {
       "id": "house:cowan",
@@ -857,7 +965,10 @@
       "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Aly",
       "portfolio": [
         "multicultural"
-      ]
+      ],
+      "mpid": "13050",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=13050",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=13050"
     },
     {
       "id": "house:cowper",
@@ -879,7 +990,10 @@
       "officeLines": [
         "Level 4, 41-47 Horton Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Conaghan"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Conaghan",
+      "mpid": "279991",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=279991",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=279991"
     },
     {
       "id": "house:cunningham",
@@ -901,7 +1015,10 @@
       "officeLines": [
         "74 Crown Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Byrnes"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Byrnes",
+      "mpid": "299145",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=299145",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299145"
     },
     {
       "id": "house:curtin",
@@ -924,7 +1041,10 @@
         "Shop 98 Floreat Forum Shopping Centre",
         "5 Howtree Place"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chaney"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chaney",
+      "mpid": "300006",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300006",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300006"
     },
     {
       "id": "house:dawson",
@@ -947,7 +1067,10 @@
         "Level 2",
         "47 Gordon Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Willcox"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Willcox",
+      "mpid": "286535",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=286535",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=286535"
     },
     {
       "id": "house:deakin",
@@ -969,7 +1092,10 @@
       "officeLines": [
         "Unit 5, 602 Whitehorse Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gregg"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gregg",
+      "mpid": "315154",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=315154",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=315154"
     },
     {
       "id": "house:dickson",
@@ -991,7 +1117,10 @@
       "officeLines": [
         "454 Gympie Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=France"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=France",
+      "mpid": "270198",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=270198",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=270198"
     },
     {
       "id": "house:dobell",
@@ -1017,7 +1146,10 @@
         "T6 - T7, Village Central",
         "18-34 Alison Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McBride"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McBride",
+      "mpid": "248353",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=248353",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=248353"
     },
     {
       "id": "house:dunkley",
@@ -1039,7 +1171,10 @@
       "officeLines": [
         "37 Playne Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Belyea"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Belyea",
+      "mpid": "309484",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=309484",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=309484"
     },
     {
       "id": "house:durack",
@@ -1061,7 +1196,10 @@
       "officeLines": [
         "2B/209 Foreshore Drive"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Price"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Price",
+      "mpid": "249308",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=249308",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249308"
     },
     {
       "id": "house:eden-monaro",
@@ -1086,7 +1224,10 @@
       "officeLines": [
         "1/21-25 Monaro Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McBain"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McBain",
+      "mpid": "281988",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=281988",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281988"
     },
     {
       "id": "house:fadden",
@@ -1110,7 +1251,10 @@
       "officeLines": [
         "Unit 1, 110 Brisbane Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Caldwell"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Caldwell",
+      "mpid": "306489",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=306489",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=306489"
     },
     {
       "id": "house:fairfax",
@@ -1134,7 +1278,10 @@
       "officeLines": [
         "17 Southern Drive"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Brien"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Brien",
+      "mpid": "138932",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=138932",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=138932"
     },
     {
       "id": "house:farrer",
@@ -1156,7 +1303,10 @@
       "officeLines": [
         "517 Kiewa Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Farley"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Farley",
+      "mpid": "62329",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=62329",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=62329"
     },
     {
       "id": "house:fenner",
@@ -1180,7 +1330,10 @@
       "officeLines": [
         "Cnr Gungahlin Pl & Efkarpidis St"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Leigh"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Leigh",
+      "mpid": "BU8",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=BU8",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=BU8"
     },
     {
       "id": "house:fisher",
@@ -1203,7 +1356,10 @@
         "'The Edge' Upper Level East, Unit 11",
         "10 Lake Kawana Boulevard"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wallace"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wallace",
+      "mpid": "265967",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=265967",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265967"
     },
     {
       "id": "house:flinders",
@@ -1225,7 +1381,10 @@
       "officeLines": [
         "1/49 Eramosa Road West"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McKenzie"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McKenzie",
+      "mpid": "124514",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=124514",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=124514"
     },
     {
       "id": "house:flynn",
@@ -1247,7 +1406,10 @@
       "officeLines": [
         "76 Goondoon Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Boyce"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Boyce",
+      "mpid": "299498",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=299498",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299498"
     },
     {
       "id": "house:forde",
@@ -1269,7 +1431,10 @@
       "officeLines": [
         "110-112 George Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Holzberger"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Holzberger",
+      "mpid": "88411",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=88411",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=88411"
     },
     {
       "id": "house:forrest",
@@ -1293,7 +1458,10 @@
       "officeLines": [
         "Units 7 & 8 Grand Cinema Complex, Cnr Victoria and Clifton Streets"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Small"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Small",
+      "mpid": "291406",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=291406",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=291406"
     },
     {
       "id": "house:fowler",
@@ -1315,7 +1483,10 @@
       "officeLines": [
         "270 Canley Vale Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Le"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Le",
+      "mpid": "295676",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=295676",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=295676"
     },
     {
       "id": "house:franklin",
@@ -1339,7 +1510,10 @@
       "officeLines": [
         "18 Ross Avenue"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Collins"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Collins",
+      "mpid": "HWM",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=HWM",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWM"
     },
     {
       "id": "house:fraser",
@@ -1364,7 +1538,10 @@
       "officeLines": [
         "Shop 1 25-27 Clarke Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Mulino"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Mulino",
+      "mpid": "132880",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=132880",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=132880"
     },
     {
       "id": "house:fremantle",
@@ -1390,7 +1567,10 @@
         "Office 12, Level 1",
         "135 High Street Mall"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wilson"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wilson",
+      "mpid": "265970",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=265970",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265970"
     },
     {
       "id": "house:gellibrand",
@@ -1413,7 +1593,10 @@
         "Ground Floor Units 2 & 3",
         "455 Melbourne Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Watts"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Watts",
+      "mpid": "193430",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=193430",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=193430"
     },
     {
       "id": "house:gilmore",
@@ -1435,7 +1618,10 @@
       "officeLines": [
         "3/59 Junction Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Phillips"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Phillips",
+      "mpid": "147140",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=147140",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=147140"
     },
     {
       "id": "house:gippsland",
@@ -1459,7 +1645,10 @@
       "officeLines": [
         "Level 1, 89 Raymond Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chester"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chester",
+      "mpid": "IPZ",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=IPZ",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=IPZ"
     },
     {
       "id": "house:goldstein",
@@ -1481,7 +1670,10 @@
       "officeLines": [
         "677 Nepean Highway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wilson"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wilson",
+      "mpid": "IMW",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=IMW",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=IMW"
     },
     {
       "id": "house:gorton",
@@ -1503,7 +1695,10 @@
       "officeLines": [
         "Shop 3, 11 Commercial Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Jordan-Baird"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Jordan-Baird",
+      "mpid": "316021",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316021",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316021"
     },
     {
       "id": "house:grayndler",
@@ -1527,7 +1722,10 @@
       "officeLines": [
         "Tenancy R6, 14 Rich Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Albanese"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Albanese",
+      "mpid": "R36",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=R36",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=R36"
     },
     {
       "id": "house:greenway",
@@ -1552,7 +1750,10 @@
         "Shop 48, Level 1, Tallawong Village",
         "3 Elymus Glade"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Rowland"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Rowland",
+      "mpid": "159771",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=159771",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=159771"
     },
     {
       "id": "house:grey",
@@ -1574,7 +1775,10 @@
       "officeLines": [
         "43 Taylor Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Venning"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Venning",
+      "mpid": "315434",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=315434",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=315434"
     },
     {
       "id": "house:griffith",
@@ -1596,7 +1800,10 @@
       "officeLines": [
         "76 Old Cleveland Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Coffey"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Coffey",
+      "mpid": "312323",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=312323",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=312323"
     },
     {
       "id": "house:groom",
@@ -1619,7 +1826,10 @@
         "Ground Floor",
         "516 Ruthven Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hamilton"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hamilton",
+      "mpid": "291387",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=291387",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=291387"
     },
     {
       "id": "house:hasluck",
@@ -1642,7 +1852,10 @@
         "Shop 2",
         "257 Great Eastern Highway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Lawrence"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Lawrence",
+      "mpid": "299150",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=299150",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299150"
     },
     {
       "id": "house:hawke",
@@ -1666,7 +1879,10 @@
       "officeLines": [
         "316 High Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Rae"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Rae",
+      "mpid": "300122",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300122",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300122"
     },
     {
       "id": "house:herbert",
@@ -1689,7 +1905,10 @@
         "G06 Nathan Business Centre",
         "340 Ross River Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Thompson"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Thompson",
+      "mpid": "281826",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=281826",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281826"
     },
     {
       "id": "house:hindmarsh",
@@ -1715,7 +1934,10 @@
       "officeLines": [
         "21 Commercial Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Butler"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Butler",
+      "mpid": "HWK",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=HWK",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWK"
     },
     {
       "id": "house:hinkler",
@@ -1739,7 +1961,10 @@
       "officeLines": [
         "41 Woongarra Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Batt"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Batt",
+      "mpid": "315478",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=315478",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=315478"
     },
     {
       "id": "house:holt",
@@ -1761,7 +1986,10 @@
       "officeLines": [
         "Shop 7, 1060 Thompsons Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Fernando"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Fernando",
+      "mpid": "299964",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=299964",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299964"
     },
     {
       "id": "house:hotham",
@@ -1787,7 +2015,10 @@
       "officeLines": [
         "17-19 Atherton Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Neil"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Neil",
+      "mpid": "140590",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=140590",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=140590"
     },
     {
       "id": "house:hughes",
@@ -1809,7 +2040,10 @@
       "officeLines": [
         "Shop 1, 9-15, East Parade"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Moncrieff"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Moncrieff",
+      "mpid": "316540",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316540",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316540"
     },
     {
       "id": "house:hume",
@@ -1833,7 +2067,10 @@
       "officeLines": [
         "18 Hill Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Taylor"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Taylor",
+      "mpid": "231027",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=231027",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=231027"
     },
     {
       "id": "house:hunter",
@@ -1855,7 +2092,10 @@
       "officeLines": [
         "3 Edward Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Repacholi"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Repacholi",
+      "mpid": "298840",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=298840",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298840"
     },
     {
       "id": "house:indi",
@@ -1877,7 +2117,10 @@
       "officeLines": [
         "117 Murphy Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Haines"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Haines",
+      "mpid": "282335",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=282335",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=282335"
     },
     {
       "id": "house:isaacs",
@@ -1899,7 +2142,10 @@
       "officeLines": [
         "566 Main Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Dreyfus"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Dreyfus",
+      "mpid": "HWG",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=HWG",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWG"
     },
     {
       "id": "house:jagajaga",
@@ -1921,7 +2167,10 @@
       "officeLines": [
         "2/37 Burgundy Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Thwaites"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Thwaites",
+      "mpid": "282212",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=282212",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=282212"
     },
     {
       "id": "house:kennedy",
@@ -1943,7 +2192,10 @@
       "officeLines": [
         "14-20 Rankin Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Katter"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Katter",
+      "mpid": "HX4",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=HX4",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HX4"
     },
     {
       "id": "house:kingsford-smith",
@@ -1972,7 +2224,10 @@
       "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Thistlethwaite",
       "portfolio": [
         "immigration-assistant"
-      ]
+      ],
+      "mpid": "182468",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=182468",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=182468"
     },
     {
       "id": "house:kingston",
@@ -1996,7 +2251,10 @@
       "officeLines": [
         "232 Main South Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Rishworth"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Rishworth",
+      "mpid": "HWA",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=HWA",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWA"
     },
     {
       "id": "house:kooyong",
@@ -2018,7 +2276,10 @@
       "officeLines": [
         "145 Camberwell Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ryan"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ryan",
+      "mpid": "297660",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=297660",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=297660"
     },
     {
       "id": "house:la-trobe",
@@ -2041,7 +2302,10 @@
         "Unit 3",
         "16 Langmore Lane"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wood"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wood",
+      "mpid": "E0F",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=E0F",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=E0F"
     },
     {
       "id": "house:lalor",
@@ -2066,7 +2330,10 @@
         "Tenancies 3 & 4",
         "203-205 Watton Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ryan"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ryan",
+      "mpid": "249224",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=249224",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249224"
     },
     {
       "id": "house:leichhardt",
@@ -2088,7 +2355,10 @@
       "officeLines": [
         "Suite 3 & 4, 200 Mulgrave Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Smith"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Smith",
+      "mpid": "312393",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=312393",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=312393"
     },
     {
       "id": "house:lilley",
@@ -2114,7 +2384,10 @@
         "Ground floor",
         "1176 Sandgate Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wells"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wells",
+      "mpid": "264121",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=264121",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=264121"
     },
     {
       "id": "house:lindsay",
@@ -2137,7 +2410,10 @@
         "Ground Floor",
         "331 High Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McIntosh"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McIntosh",
+      "mpid": "281513",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=281513",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281513"
     },
     {
       "id": "house:lingiari",
@@ -2159,7 +2435,10 @@
       "officeLines": [
         "79 Todd Mall"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Scrymgour"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Scrymgour",
+      "mpid": "F2S",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=F2S",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=F2S"
     },
     {
       "id": "house:longman",
@@ -2184,7 +2463,10 @@
         "Level 1",
         "Unit A, 69 King Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Young"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Young",
+      "mpid": "201906",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=201906",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=201906"
     },
     {
       "id": "house:lyne",
@@ -2206,7 +2488,10 @@
       "officeLines": [
         "Shops 2 & 3, 43 High Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Penfold"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Penfold",
+      "mpid": "248895",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=248895",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=248895"
     },
     {
       "id": "house:lyons",
@@ -2232,7 +2517,10 @@
       "officeLines": [
         "Suite 105, Green Point Plaza, 28 Green Point Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=White"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=White",
+      "mpid": "224102",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=224102",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=224102"
     },
     {
       "id": "house:macarthur",
@@ -2254,7 +2542,10 @@
       "officeLines": [
         "37 Queen Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Freelander"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Freelander",
+      "mpid": "265979",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=265979",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265979"
     },
     {
       "id": "house:mackellar",
@@ -2276,7 +2567,10 @@
       "officeLines": [
         "Shop 1&2, 1238-1246 Pittwater Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Scamps"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Scamps",
+      "mpid": "299623",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=299623",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299623"
     },
     {
       "id": "house:macnamara",
@@ -2298,7 +2592,10 @@
       "officeLines": [
         "219 Barkly Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Burns"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Burns",
+      "mpid": "278522",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=278522",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=278522"
     },
     {
       "id": "house:macquarie",
@@ -2320,7 +2617,10 @@
       "officeLines": [
         "Ground Floor, 299 George Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Templeman"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Templeman",
+      "mpid": "181810",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=181810",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=181810"
     },
     {
       "id": "house:makin",
@@ -2342,7 +2642,10 @@
       "officeLines": [
         "959 North East Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Zappia"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Zappia",
+      "mpid": "HWB",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=HWB",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWB"
     },
     {
       "id": "house:mallee",
@@ -2364,7 +2667,10 @@
       "officeLines": [
         "Ground Floor, 148 Eighth Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Webster"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Webster",
+      "mpid": "281688",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=281688",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281688"
     },
     {
       "id": "house:maranoa",
@@ -2387,7 +2693,10 @@
         "T40-42, Dalby Shopping World",
         "17-67 Cunningham Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Littleproud"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Littleproud",
+      "mpid": "265585",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=265585",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265585"
     },
     {
       "id": "house:maribyrnong",
@@ -2409,7 +2718,10 @@
       "officeLines": [
         "Suite 1A, 12 Hall Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Briskey"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Briskey",
+      "mpid": "263427",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=263427",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=263427"
     },
     {
       "id": "house:mayo",
@@ -2432,7 +2744,10 @@
         "Shop 3, Barker Plaza Shopping Centre",
         "22-28 Hutchinson Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sharkie"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sharkie",
+      "mpid": "265980",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=265980",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265980"
     },
     {
       "id": "house:mcewen",
@@ -2454,7 +2769,10 @@
       "officeLines": [
         "57-59 High Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Mitchell"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Mitchell",
+      "mpid": "M3E",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=M3E",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=M3E"
     },
     {
       "id": "house:mcmahon",
@@ -2479,7 +2797,10 @@
         "Shops 3 & 4",
         "398 Hamilton Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bowen"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bowen",
+      "mpid": "DZS",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=DZS",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DZS"
     },
     {
       "id": "house:mcpherson",
@@ -2501,7 +2822,10 @@
       "officeLines": [
         "47 Watts Drive"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Rebello"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Rebello",
+      "mpid": "316547",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316547",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316547"
     },
     {
       "id": "house:melbourne",
@@ -2523,7 +2847,10 @@
       "officeLines": [
         "142 Johnston Sreet"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Witty"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Witty",
+      "mpid": "316660",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316660",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316660"
     },
     {
       "id": "house:menzies",
@@ -2545,7 +2872,10 @@
       "officeLines": [
         "Level 1, 651-653 Doncaster Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ng"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ng",
+      "mpid": "316052",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316052",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316052"
     },
     {
       "id": "house:mitchell",
@@ -2568,7 +2898,10 @@
         "Suite 8",
         "23 Terminus Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hawke"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hawke",
+      "mpid": "HWO",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=HWO",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWO"
     },
     {
       "id": "house:monash",
@@ -2592,7 +2925,10 @@
       "officeLines": [
         "46C Albert Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Aldred"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Aldred",
+      "mpid": "11788",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=11788",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=11788"
     },
     {
       "id": "house:moncrieff",
@@ -2614,7 +2950,10 @@
       "officeLines": [
         "65-67 Thomas Drive"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bell"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bell",
+      "mpid": "282981",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=282981",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=282981"
     },
     {
       "id": "house:moore",
@@ -2636,7 +2975,10 @@
       "officeLines": [
         "Suite 6, 129 Grand Boulevard"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=French"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=French",
+      "mpid": "316550",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316550",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316550"
     },
     {
       "id": "house:moreton",
@@ -2658,7 +3000,10 @@
       "officeLines": [
         "Suite 106, Sunnybank Times Square, 250 McCullough Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Campbell"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Campbell",
+      "mpid": "312823",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=312823",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=312823"
     },
     {
       "id": "house:new-england",
@@ -2681,7 +3026,10 @@
         "Suite 17",
         "454-456 Peel Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Joyce"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Joyce",
+      "mpid": "E5D",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=E5D",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=E5D"
     },
     {
       "id": "house:newcastle",
@@ -2705,7 +3053,10 @@
       "officeLines": [
         "427 Hunter Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Claydon"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Claydon",
+      "mpid": "248181",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=248181",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=248181"
     },
     {
       "id": "house:nicholls",
@@ -2727,7 +3078,10 @@
       "officeLines": [
         "426 Wyndham Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Birrell"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Birrell",
+      "mpid": "288713",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=288713",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=288713"
     },
     {
       "id": "house:o-connor",
@@ -2749,7 +3103,10 @@
       "officeLines": [
         "345 Hannan Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wilson"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wilson",
+      "mpid": "198084",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=198084",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=198084"
     },
     {
       "id": "house:oxley",
@@ -2773,7 +3130,10 @@
       "officeLines": [
         "Unit 3, 205 Government Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Dick"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Dick",
+      "mpid": "53517",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=53517",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=53517"
     },
     {
       "id": "house:page",
@@ -2797,7 +3157,10 @@
       "officeLines": [
         "63 Molesworth Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hogan"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hogan",
+      "mpid": "218019",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=218019",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=218019"
     },
     {
       "id": "house:parkes",
@@ -2819,7 +3182,10 @@
       "officeLines": [
         "Brookfield House 275 Argent St"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chaffey"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chaffey",
+      "mpid": "316312",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316312",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316312"
     },
     {
       "id": "house:parramatta",
@@ -2844,7 +3210,10 @@
       "officeLines": [
         "Shops 1 & 2, 25 Smith St"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Charlton"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Charlton",
+      "mpid": "I8M",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=I8M",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I8M"
     },
     {
       "id": "house:paterson",
@@ -2866,7 +3235,10 @@
       "officeLines": [
         "35 Sturgeon Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Swanson"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Swanson",
+      "mpid": "264170",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=264170",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=264170"
     },
     {
       "id": "house:pearce",
@@ -2888,7 +3260,10 @@
       "officeLines": [
         "Unit 2, 23 Ocean Keys Boulevard"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Roberts"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Roberts",
+      "mpid": "157125",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=157125",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=157125"
     },
     {
       "id": "house:perth",
@@ -2915,7 +3290,10 @@
         "Level 6",
         "One The Esplanade"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gorman"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gorman",
+      "mpid": "74519",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=74519",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=74519"
     },
     {
       "id": "house:petrie",
@@ -2937,7 +3315,10 @@
       "officeLines": [
         "40 Hornibrook Esplanade"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Comer"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Comer",
+      "mpid": "316551",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316551",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316551"
     },
     {
       "id": "house:rankin",
@@ -2962,7 +3343,10 @@
         "Unit 2A, Logan Central Plaza",
         "38-74 Wembley Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chalmers"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chalmers",
+      "mpid": "37998",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=37998",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=37998"
     },
     {
       "id": "house:reid",
@@ -2984,7 +3368,10 @@
       "officeLines": [
         "72 Burwood Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sitou"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sitou",
+      "mpid": "298121",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=298121",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298121"
     },
     {
       "id": "house:richmond",
@@ -3006,7 +3393,10 @@
       "officeLines": [
         "Suite 6, Hallmark Centre, 107-111 Minjungbal Drive"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Elliot"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Elliot",
+      "mpid": "DZW",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=DZW",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DZW"
     },
     {
       "id": "house:riverina",
@@ -3029,7 +3419,10 @@
         "Suite 2",
         "11-15 Fitzmaurice Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McCormack"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McCormack",
+      "mpid": "219646",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=219646",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=219646"
     },
     {
       "id": "house:robertson",
@@ -3052,7 +3445,10 @@
         "Suite 3.04 & 3.05",
         "Level 3, 69 Central Coast Highway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Reid"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Reid",
+      "mpid": "300126",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300126",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300126"
     },
     {
       "id": "house:ryan",
@@ -3074,7 +3470,10 @@
       "officeLines": [
         "188 Moggill Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Watson-Brown"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Watson-Brown",
+      "mpid": "300127",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300127",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300127"
     },
     {
       "id": "house:scullin",
@@ -3098,7 +3497,10 @@
       "officeLines": [
         "187-189 High Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Giles"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Giles",
+      "mpid": "243609",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=243609",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=243609"
     },
     {
       "id": "house:shortland",
@@ -3124,7 +3526,10 @@
         "Suite 1A",
         "571 Pacific Highway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Conroy"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Conroy",
+      "mpid": "249127",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=249127",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249127"
     },
     {
       "id": "house:solomon",
@@ -3146,7 +3551,10 @@
       "officeLines": [
         "3/266 Trower Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gosling"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gosling",
+      "mpid": "245392",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=245392",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=245392"
     },
     {
       "id": "house:spence",
@@ -3168,7 +3576,10 @@
       "officeLines": [
         "Tenancy 8, 2-10 James Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Burnell"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Burnell",
+      "mpid": "300129",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300129",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300129"
     },
     {
       "id": "house:sturt",
@@ -3190,7 +3601,10 @@
       "officeLines": [
         "Level 1, 85 The Parade"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Clutterham"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Clutterham",
+      "mpid": "316101",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316101",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316101"
     },
     {
       "id": "house:swan",
@@ -3212,7 +3626,10 @@
       "officeLines": [
         "G3, 59 Albany Highway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Mascarenhas"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Mascarenhas",
+      "mpid": "298800",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=298800",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298800"
     },
     {
       "id": "house:sydney",
@@ -3237,7 +3654,10 @@
         "1a Great Buckingham Street (cnr. Cleveland Street)",
         "Redfern"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Plibersek"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Plibersek",
+      "mpid": "83M",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=83M",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=83M"
     },
     {
       "id": "house:tangney",
@@ -3259,7 +3679,10 @@
       "officeLines": [
         "6 Aveley Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Lim"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Lim",
+      "mpid": "300130",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300130",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300130"
     },
     {
       "id": "house:wannon",
@@ -3283,7 +3706,10 @@
       "officeLines": [
         "190 Gray Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Tehan"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Tehan",
+      "mpid": "210911",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=210911",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=210911"
     },
     {
       "id": "house:warringah",
@@ -3305,7 +3731,10 @@
       "officeLines": [
         "Units 4-6, 8-28 The Corso"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Steggall"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Steggall",
+      "mpid": "175696",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=175696",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=175696"
     },
     {
       "id": "house:watson",
@@ -3337,7 +3766,10 @@
       "portfolio": [
         "home-affairs",
         "immigration-minister"
-      ]
+      ],
+      "mpid": "DYW",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=DYW",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DYW"
     },
     {
       "id": "house:wentworth",
@@ -3360,7 +3792,10 @@
         "Suite 302 Level 3",
         "179-191 New South Head Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Spender"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Spender",
+      "mpid": "286042",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=286042",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=286042"
     },
     {
       "id": "house:werriwa",
@@ -3384,7 +3819,10 @@
       "officeLines": [
         "Shop 7, 441 Hoxton Park Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Stanley"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Stanley",
+      "mpid": "265990",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=265990",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265990"
     },
     {
       "id": "house:whitlam",
@@ -3406,7 +3844,10 @@
       "officeLines": [
         "Shop 244, Stockland Shopping Centre"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Berry"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Berry",
+      "mpid": "23497",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=23497",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=23497"
     },
     {
       "id": "house:wide-bay",
@@ -3428,7 +3869,10 @@
       "officeLines": [
         "319 Kent Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Brien"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Brien",
+      "mpid": "265991",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=265991",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265991"
     },
     {
       "id": "house:wills",
@@ -3452,7 +3896,10 @@
       "officeLines": [
         "466 - 468 Sydney Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Khalil"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Khalil",
+      "mpid": "101351",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=101351",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=101351"
     },
     {
       "id": "house:wright",
@@ -3474,7 +3921,10 @@
       "officeLines": [
         "21 William Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Buchholz"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Buchholz",
+      "mpid": "230531",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=230531",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=230531"
     }
   ],
   "senate": [
@@ -3503,7 +3953,10 @@
       "officeLines": [
         "Unit 3, 40 Corinna Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gallagher"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gallagher",
+      "mpid": "ING",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=ING",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ING"
     },
     {
       "id": "senate:act:pocock-david",
@@ -3528,7 +3981,10 @@
         "Shop 1",
         "25 Ernest Cavanagh Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Pocock"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Pocock",
+      "mpid": "256136",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=256136",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=256136"
     },
     {
       "id": "senate:nsw:ayres-tim",
@@ -3554,7 +4010,10 @@
         "Level 3",
         "1A Lawson Square"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ayres"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ayres",
+      "mpid": "16913",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=16913",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=16913"
     },
     {
       "id": "senate:nsw:bell-sean",
@@ -3579,7 +4038,10 @@
         "Commonwealth Parliamentary Offices, Suite 8, Level 21",
         "1 Bligh Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bell"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bell",
+      "mpid": "319142",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=319142",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=319142"
     },
     {
       "id": "senate:nsw:bragg-andrew",
@@ -3602,7 +4064,10 @@
         "Shop 1",
         "392 Oxford Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bragg"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bragg",
+      "mpid": "256063",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=256063",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=256063"
     },
     {
       "id": "senate:nsw:cadell-ross",
@@ -3627,7 +4092,10 @@
         "Ground Floor",
         "28-30 Bolton Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cadell"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cadell",
+      "mpid": "300134",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300134",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300134"
     },
     {
       "id": "senate:nsw:collins-jessica",
@@ -3650,7 +4118,10 @@
         "Commonwealth Parliamentary Offices, Suite 14.02, Level 14",
         "25 Bligh Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Collins"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Collins",
+      "mpid": "297964",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=297964",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=297964"
     },
     {
       "id": "senate:nsw:faruqi-mehreen",
@@ -3674,7 +4145,10 @@
       "officeLines": [
         "72 Campbell Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Faruqi"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Faruqi",
+      "mpid": "250362",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=250362",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=250362"
     },
     {
       "id": "senate:nsw:kovacic-maria",
@@ -3699,7 +4173,10 @@
         "Suite 2, Level 5",
         "3 Thomas Holt Drive"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Kovacic"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Kovacic",
+      "mpid": "306168",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=306168",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=306168"
     },
     {
       "id": "senate:nsw:mcallister-jenny",
@@ -3724,7 +4201,10 @@
         "Suite 501, Level 5",
         "54-66 Wentworth Avenue"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McAllister"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McAllister",
+      "mpid": "121628",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=121628",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=121628"
     },
     {
       "id": "senate:nsw:o-neill-deborah",
@@ -3747,7 +4227,10 @@
         "Suite 3.12, The Platinum Building",
         "4 Ilya Avenue"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Neill"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Neill",
+      "mpid": "140651",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=140651",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=140651"
     },
     {
       "id": "senate:nsw:sharma-dave",
@@ -3770,7 +4253,10 @@
         "Commonwealth Parliamentary Offices, Suite 10, Level 21",
         "1 Bligh Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sharma"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sharma",
+      "mpid": "274506",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=274506",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=274506"
     },
     {
       "id": "senate:nsw:sheldon-tony",
@@ -3795,7 +4281,10 @@
         "Suite 11.02, Level 11",
         "66 Goulburn Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sheldon"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sheldon",
+      "mpid": "168275",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=168275",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=168275"
     },
     {
       "id": "senate:nsw:shoebridge-david",
@@ -3818,7 +4307,10 @@
         "Suite 201, Level 2",
         "1A Lawson Square"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Shoebridge"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Shoebridge",
+      "mpid": "169119",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=169119",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=169119"
     },
     {
       "id": "senate:nt:mccarthy-malarndirri",
@@ -3842,7 +4334,10 @@
       "officeLines": [
         "38 Mitchell Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McCarthy"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McCarthy",
+      "mpid": "122087",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=122087",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=122087"
     },
     {
       "id": "senate:nt:nampijinpa-price-jacinta",
@@ -3862,7 +4357,10 @@
       "officeSuburb": "",
       "officePostcode": "",
       "officeLines": [],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Nampijinpa%20Price"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Nampijinpa%20Price",
+      "mpid": "263528",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=263528",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=263528"
     },
     {
       "id": "senate:qld:allman-payne-penny",
@@ -3884,7 +4382,10 @@
       "officeLines": [
         "20-22 Herbert Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Allman-Payne"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Allman-Payne",
+      "mpid": "298839",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=298839",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298839"
     },
     {
       "id": "senate:qld:canavan-matthew",
@@ -3909,7 +4410,10 @@
         "Ground Floor",
         "34 East Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Canavan"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Canavan",
+      "mpid": "245212",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=245212",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=245212"
     },
     {
       "id": "senate:qld:chisholm-anthony",
@@ -3936,7 +4440,10 @@
         "Level 1",
         "53 Endeavour Boulevard"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chisholm"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chisholm",
+      "mpid": "39801",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=39801",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=39801"
     },
     {
       "id": "senate:qld:green-nita",
@@ -3962,7 +4469,10 @@
       "officeLines": [
         "141 - 143 Abbott Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Green"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Green",
+      "mpid": "259819",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=259819",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=259819"
     },
     {
       "id": "senate:qld:hanson-pauline",
@@ -3987,7 +4497,10 @@
         "Suite 3, Level 36, Waterfront Place",
         "1 Eagle Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hanson"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hanson",
+      "mpid": "BK6",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=BK6",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=BK6"
     },
     {
       "id": "senate:qld:mcdonald-susan",
@@ -4012,7 +4525,10 @@
         "Suite 3",
         "520 Flinders Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McDonald"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McDonald",
+      "mpid": "123072",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=123072",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=123072"
     },
     {
       "id": "senate:qld:mcgrath-james",
@@ -4035,7 +4551,10 @@
         "Tenancy A",
         "2-4 Mitchell Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McGrath"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McGrath",
+      "mpid": "217241",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=217241",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=217241"
     },
     {
       "id": "senate:qld:mulholland-corinne",
@@ -4058,7 +4577,10 @@
         "Level 1",
         "90 Kittyhawk Drive"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Mulholland"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Mulholland",
+      "mpid": "277110",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=277110",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=277110"
     },
     {
       "id": "senate:qld:roberts-malcolm",
@@ -4081,7 +4603,10 @@
         "Commonwealth Parliament Offices Suite 2, Level 36 Waterfront Place",
         "1 Eagle Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Roberts"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Roberts",
+      "mpid": "266524",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=266524",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=266524"
     },
     {
       "id": "senate:qld:scarr-paul",
@@ -4104,7 +4629,10 @@
         "Tenancy 3, Level 6, Springfield Tower",
         "145 Sinnathamby Boulevard"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Scarr"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Scarr",
+      "mpid": "282997",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=282997",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=282997"
     },
     {
       "id": "senate:qld:waters-larissa",
@@ -4129,7 +4657,10 @@
         "Level 2",
         "251 Given Terrace"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Waters"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Waters",
+      "mpid": "192970",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=192970",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=192970"
     },
     {
       "id": "senate:qld:watt-murray",
@@ -4154,7 +4685,10 @@
         "Suite 29.07, Level 29",
         "1 Eagle Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Watt"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Watt",
+      "mpid": "245759",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=245759",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=245759"
     },
     {
       "id": "senate:sa:antic-alex",
@@ -4176,7 +4710,10 @@
       "officeLines": [
         "398 Main North Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Antic"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Antic",
+      "mpid": "269375",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=269375",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=269375"
     },
     {
       "id": "senate:sa:blyth-leah",
@@ -4198,7 +4735,10 @@
       "officeLines": [
         "107 Sir Donald Bradman Drive"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Blyth"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Blyth",
+      "mpid": "315170",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=315170",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=315170"
     },
     {
       "id": "senate:sa:farrell-don",
@@ -4224,7 +4764,10 @@
         "Level 5",
         "19 Gilles Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Farrell"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Farrell",
+      "mpid": "I0N",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=I0N",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I0N"
     },
     {
       "id": "senate:sa:grogan-karen",
@@ -4248,7 +4791,10 @@
       "officeLines": [
         "265 Churchill Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Grogan"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Grogan",
+      "mpid": "296331",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=296331",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=296331"
     },
     {
       "id": "senate:sa:hanson-young-sarah",
@@ -4272,7 +4818,10 @@
       "officeLines": [
         "Level 7, 147  Pirie Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hanson-Young"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hanson-Young",
+      "mpid": "I0U",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=I0U",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I0U"
     },
     {
       "id": "senate:sa:liddle-kerrynne",
@@ -4297,7 +4846,10 @@
         "Level 2",
         "31 Ebenezer Place"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Liddle"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Liddle",
+      "mpid": "300644",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300644",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300644"
     },
     {
       "id": "senate:sa:mclachlan-andrew",
@@ -4319,7 +4871,10 @@
       "officeLines": [
         "Level 1, 97 King William Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McLachlan"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McLachlan",
+      "mpid": "287062",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=287062",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=287062"
     },
     {
       "id": "senate:sa:pocock-barbara",
@@ -4342,7 +4897,10 @@
         "Level 1",
         "110 King William Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Pocock"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Pocock",
+      "mpid": "BFQ",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=BFQ",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=BFQ"
     },
     {
       "id": "senate:sa:ruston-anne",
@@ -4366,7 +4924,10 @@
       "officeLines": [
         "9 Renmark Avenue"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ruston"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ruston",
+      "mpid": "243273",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=243273",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=243273"
     },
     {
       "id": "senate:sa:smith-marielle",
@@ -4388,7 +4949,10 @@
       "officeLines": [
         "T1 10 Park Terrace"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Smith"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Smith",
+      "mpid": "281603",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=281603",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281603"
     },
     {
       "id": "senate:sa:walker-charlotte",
@@ -4411,7 +4975,10 @@
         "Commonwealth Parliament Offices",
         "Level 27, Festival Tower, Station Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Walker"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Walker",
+      "mpid": "316818",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316818",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316818"
     },
     {
       "id": "senate:sa:wong-penny",
@@ -4436,7 +5003,10 @@
         "Level 4",
         "19 Gouger Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wong"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wong",
+      "mpid": "00AOU",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=00AOU",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AOU"
     },
     {
       "id": "senate:tas:bleyer-vanessa",
@@ -4458,7 +5028,10 @@
       "officeLines": [
         "37 George Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bleyer"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bleyer",
+      "mpid": "25813",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=25813",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=25813"
     },
     {
       "id": "senate:tas:brown-carol",
@@ -4481,7 +5054,10 @@
         "1st Floor",
         "136 Davey Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Brown"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Brown",
+      "mpid": "F49",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=F49",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=F49"
     },
     {
       "id": "senate:tas:chandler-claire",
@@ -4503,7 +5079,10 @@
       "officeLines": [
         "42 Bridge Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chandler"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chandler",
+      "mpid": "264449",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=264449",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=264449"
     },
     {
       "id": "senate:tas:colbeck-richard",
@@ -4525,7 +5104,10 @@
       "officeLines": [
         "5-7 Best Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Colbeck"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Colbeck",
+      "mpid": "00AOL",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=00AOL",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AOL"
     },
     {
       "id": "senate:tas:dolega-josh",
@@ -4547,7 +5129,10 @@
       "officeLines": [
         "1-3 Rooke Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Dolega"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Dolega",
+      "mpid": "316935",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316935",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316935"
     },
     {
       "id": "senate:tas:dowling-richard",
@@ -4570,7 +5155,10 @@
         "Shop 3, Kingston Plaza",
         "20 Channel Highway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Dowling"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Dowling",
+      "mpid": "55842",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=55842",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=55842"
     },
     {
       "id": "senate:tas:duniam-jonathon",
@@ -4594,7 +5182,10 @@
       "officeLines": [
         "85 Macquarie Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Duniam"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Duniam",
+      "mpid": "263418",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=263418",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=263418"
     },
     {
       "id": "senate:tas:gatenby-chris",
@@ -4618,7 +5209,10 @@
       "officeLines": [
         "46-54 Cameron Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gatenby"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gatenby",
+      "mpid": "324140",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=324140",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=324140"
     },
     {
       "id": "senate:tas:lambie-jacqui",
@@ -4641,7 +5235,10 @@
         "Shop 4",
         "22 Mount Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Lambie"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Lambie",
+      "mpid": "250026",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=250026",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=250026"
     },
     {
       "id": "senate:tas:mckim-nick",
@@ -4665,7 +5262,10 @@
       "officeLines": [
         "149B Macquarie Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McKim"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McKim",
+      "mpid": "JKM",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=JKM",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=JKM"
     },
     {
       "id": "senate:tas:polley-helen",
@@ -4688,7 +5288,10 @@
         "'The Charles', Suite 101",
         "287 Charles Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Polley"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Polley",
+      "mpid": "E5X",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=E5X",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=E5X"
     },
     {
       "id": "senate:tas:tyrrell-tammy",
@@ -4711,7 +5314,10 @@
         "Shop 2",
         "111-113 St John Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Tyrrell"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Tyrrell",
+      "mpid": "300639",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300639",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300639"
     },
     {
       "id": "senate:vic:ananda-rajah-michelle",
@@ -4734,7 +5340,10 @@
         "Suite 1.03",
         "261-271 Wattletree Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ananda-Rajah"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ananda-Rajah",
+      "mpid": "290544",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=290544",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=290544"
     },
     {
       "id": "senate:vic:babet-ralph",
@@ -4759,7 +5368,10 @@
         "Suite 2",
         "77 Victor Crescent"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Babet"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Babet",
+      "mpid": "300706",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300706",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300706"
     },
     {
       "id": "senate:vic:ciccone-raff",
@@ -4782,7 +5394,10 @@
         "Suite 12.01, Level 12",
         "1 Collins Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ciccone"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ciccone",
+      "mpid": "281503",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=281503",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281503"
     },
     {
       "id": "senate:vic:darmanin-lisa",
@@ -4807,7 +5422,10 @@
         "Level 3 North",
         "4 Treasury Place"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Darmanin"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Darmanin",
+      "mpid": "301128",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=301128",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=301128"
     },
     {
       "id": "senate:vic:henderson-sarah",
@@ -4829,7 +5447,10 @@
       "officeLines": [
         "231-233 Moorabool Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Henderson"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Henderson",
+      "mpid": "ZN4",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=ZN4",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ZN4"
     },
     {
       "id": "senate:vic:hodgins-may-steph",
@@ -4851,7 +5472,10 @@
       "officeLines": [
         "1 Eastbourne Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hodgins-May"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hodgins-May",
+      "mpid": "310860",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=310860",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=310860"
     },
     {
       "id": "senate:vic:hume-jane",
@@ -4875,7 +5499,10 @@
       "officeLines": [
         "223 Bridge Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hume"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hume",
+      "mpid": "266499",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=266499",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=266499"
     },
     {
       "id": "senate:vic:mckenzie-bridget",
@@ -4899,7 +5526,10 @@
       "officeLines": [
         "172 High Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McKenzie"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McKenzie",
+      "mpid": "207825",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=207825",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=207825"
     },
     {
       "id": "senate:vic:paterson-james",
@@ -4921,7 +5551,10 @@
       "officeLines": [
         "Ground floor, 63 York Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Paterson"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Paterson",
+      "mpid": "144138",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=144138",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=144138"
     },
     {
       "id": "senate:vic:stewart-jana",
@@ -4943,7 +5576,10 @@
       "officeLines": [
         "293 Spring Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Stewart"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Stewart",
+      "mpid": "299352",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=299352",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299352"
     },
     {
       "id": "senate:vic:thorpe-lidia",
@@ -4967,7 +5603,10 @@
       "officeLines": [
         "474 Smith Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Thorpe"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Thorpe",
+      "mpid": "280304",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=280304",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=280304"
     },
     {
       "id": "senate:vic:walsh-jess",
@@ -4992,7 +5631,10 @@
       "officeLines": [
         "240-250 Lygon Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Walsh"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Walsh",
+      "mpid": "252157",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=252157",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=252157"
     },
     {
       "id": "senate:wa:brockman-slade",
@@ -5017,7 +5659,10 @@
         "Unit 4,",
         "1 Harper Terrace"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Brockman"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Brockman",
+      "mpid": "30484",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=30484",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=30484"
     },
     {
       "id": "senate:wa:cash-michaelia",
@@ -5041,7 +5686,10 @@
       "officeLines": [
         "44 Outram Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cash"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cash",
+      "mpid": "I0M",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=I0M",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I0M"
     },
     {
       "id": "senate:wa:cox-dorinda",
@@ -5064,7 +5712,10 @@
         "Shop 5",
         "13 Riseley Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cox"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cox",
+      "mpid": "296215",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=296215",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=296215"
     },
     {
       "id": "senate:wa:ghosh-varun",
@@ -5087,7 +5738,10 @@
         "Tenancy 2",
         "1195 Hay Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ghosh"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ghosh",
+      "mpid": "257613",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=257613",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=257613"
     },
     {
       "id": "senate:wa:lines-sue",
@@ -5111,7 +5765,10 @@
       "officeLines": [
         "51 Ord Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Lines"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Lines",
+      "mpid": "112096",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=112096",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=112096"
     },
     {
       "id": "senate:wa:o-sullivan-matt",
@@ -5136,7 +5793,10 @@
         "Unit 10, Cockburn Gateway Shopping Centre",
         "816 Beeliar Drive"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Sullivan"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Sullivan",
+      "mpid": "283585",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=283585",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=283585"
     },
     {
       "id": "senate:wa:payman-fatima",
@@ -5161,7 +5821,10 @@
         "Commonwealth Parliamentary Offices, Level 7, Suite 4 and 5",
         "1 The Esplanade"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Payman"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Payman",
+      "mpid": "300707",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=300707",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300707"
     },
     {
       "id": "senate:wa:smith-dean",
@@ -5183,7 +5846,10 @@
       "officeLines": [
         "Unit 2, 91-97 Wanneroo Road"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Smith"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Smith",
+      "mpid": "241710",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=241710",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=241710"
     },
     {
       "id": "senate:wa:steele-john-jordon",
@@ -5206,7 +5872,10 @@
         "Office 1.19, Level 1",
         "140 William Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Steele-John"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Steele-John",
+      "mpid": "250156",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=250156",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=250156"
     },
     {
       "id": "senate:wa:sterle-glenn",
@@ -5229,7 +5898,10 @@
         "Units G2 and G3",
         "150-152 Riseley Street"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sterle"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sterle",
+      "mpid": "E68",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=E68",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=E68"
     },
     {
       "id": "senate:wa:whiteaker-ellie",
@@ -5251,7 +5923,10 @@
       "officeLines": [
         "183 Great Eastern Highway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Whiteaker"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Whiteaker",
+      "mpid": "316555",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=316555",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316555"
     },
     {
       "id": "senate:wa:whitten-tyron",
@@ -5274,7 +5949,10 @@
         "Suite C",
         "117 Great Eastern Highway"
       ],
-      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Whitten"
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Whitten",
+      "mpid": "317026",
+      "contactUrl": "https://www.aph.gov.au/Senators_and_Members/Contact_Senator_or_Member?MPID=317026",
+      "profileUrl": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=317026"
     }
   ]
 }

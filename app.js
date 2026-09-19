@@ -273,16 +273,19 @@ function card(p, extraTags, note) {
   const telE = telHref(p.phoneElectorate);
   const telP = telHref(p.phoneParliament);
   const where = p.chamber === "house" ? `${p.electorate}, ${p.state}` : `Senator for ${p.electorate}`;
+  const contact = p.contactUrl || p.profileUrl || p.profileSearch;
+  const profile = p.profileUrl || p.profileSearch;
   return `<article class="card">
     <h3>${escapeHtml(p.name)}</h3>
     <p class="who">${escapeHtml(where)}${note ? ` · ${escapeHtml(note)}` : ""}</p>
     <div class="tags">${tags}</div>
     ${office ? `<p class="office">${escapeHtml(office)}</p>` : ""}
     <div class="actions">
-      <button type="button" class="primary" data-letter="${escapeHtml(p.id)}">Draft email</button>
+      <a class="primary" href="${escapeHtml(contact)}" target="_blank" rel="noopener">Contact via APH</a>
+      <button type="button" data-letter="${escapeHtml(p.id)}">Draft first</button>
       ${telE ? `<a href="${telE}">${escapeHtml(p.phoneElectorate)}</a>` : ""}
       ${telP ? `<a href="${telP}">Parliament ${escapeHtml(p.phoneParliament)}</a>` : ""}
-      <a href="${escapeHtml(p.profileSearch)}" target="_blank" rel="noopener">APH</a>
+      <a href="${escapeHtml(profile)}" target="_blank" rel="noopener">Profile</a>
     </div>
   </article>`;
 }
@@ -629,7 +632,8 @@ function openLetter(id) {
   el.hidden = false;
   el.classList.add("is-open");
   $("letter-to").textContent = `${p.name} · ${p.electorate} · ${PARTY_SHORT[p.partyCode] || p.partyCode}`;
-  $("aph-link").href = p.profileSearch;
+  $("aph-link").href = p.contactUrl || p.profileUrl || p.profileSearch;
+  $("aph-link").textContent = p.contactUrl ? "Open APH contact form" : "APH profile";
   $("tpl").value = defaultTpl();
   $("tpl-hint").textContent = TPL_HINT[$("tpl").value];
   refreshPreview();

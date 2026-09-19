@@ -214,7 +214,8 @@ button {
   padding: 0.28rem 0.5rem;
   font-size: 0.88rem;
 }
-.actions button.primary {
+.actions button.primary,
+.actions a.primary {
   background: var(--navy);
   border-color: var(--navy);
   color: #fff;
