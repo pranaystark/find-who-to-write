@@ -1,0 +1,41 @@
+{
+  "generated": "2026-09-19",
+  "issue": "subclass-309",
+  "roles": [
+    {
+      "key": "immigration-minister",
+      "label": "Minister for Immigration and Citizenship",
+      "why": "Owns the visa program."
+    },
+    {
+      "key": "immigration-assistant",
+      "label": "Assistant Minister for Immigration",
+      "why": "Supports the immigration portfolio."
+    },
+    {
+      "key": "home-affairs",
+      "label": "Minister for Home Affairs",
+      "why": "Department that processes visas."
+    },
+    {
+      "key": "multicultural",
+      "label": "Minister for Multicultural Affairs",
+      "why": "Family and community portfolio overlap."
+    },
+    {
+      "key": "citizenship-assistant",
+      "label": "Assistant Minister for Citizenship",
+      "why": "Citizenship and customs overlap."
+    },
+    {
+      "key": "shadow-immigration",
+      "label": "Shadow Minister for Home Affairs and Immigration",
+      "why": "Opposition immigration spokesperson (Senator Jonathon Duniam)."
+    },
+    {
+      "key": "shadow-citizenship",
+      "label": "Shadow Assistant Minister for Citizenship and Multicultural Affairs",
+      "why": "Opposition citizenship spokesperson (Senator Dave Sharma)."
+    }
+  ]
+}

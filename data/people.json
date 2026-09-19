@@ -1,0 +1,5280 @@
+{
+  "generated": "2026-09-19",
+  "source": "APH Address labels CSV (48th Parliament)",
+  "house": [
+    {
+      "id": "house:adelaide",
+      "chamber": "house",
+      "name": "Steve Georganas",
+      "firstName": "Steve",
+      "surname": "Georganas",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Adelaide",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4816",
+      "phoneElectorate": "(08) 8269 2433",
+      "officeSuburb": "Nailsworth",
+      "officePostcode": "5083",
+      "officeLines": [
+        "161 Main North Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Georganas"
+    },
+    {
+      "id": "house:aston",
+      "chamber": "house",
+      "name": "Mary Doyle",
+      "firstName": "Mary",
+      "surname": "Doyle",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Aston",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 2318",
+      "phoneElectorate": "(03) 9887 3890",
+      "officeSuburb": "Wantirna South",
+      "officePostcode": "3152",
+      "officeLines": [
+        "Suite 4, Level 1",
+        "420 Burwood Highway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Doyle"
+    },
+    {
+      "id": "house:ballarat",
+      "chamber": "house",
+      "name": "Catherine King",
+      "firstName": "Catherine",
+      "surname": "King",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Ballarat",
+      "state": "VIC",
+      "titles": [
+        "Minister for Infrastructure, Transport, Regional Development and Local Government"
+      ],
+      "ministerialTitle": "Minister for Infrastructure, Transport, Regional Development and Local Government",
+      "phoneParliament": "(02) 6277 7520",
+      "phoneElectorate": "(03) 5338 8123",
+      "officeSuburb": "Ballarat",
+      "officePostcode": "3350",
+      "officeLines": [
+        "5 Lydiard Street North"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=King"
+    },
+    {
+      "id": "house:banks",
+      "chamber": "house",
+      "name": "Zhi Soon",
+      "firstName": "Zhi",
+      "surname": "Soon",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Banks",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4584",
+      "phoneElectorate": "(02) 9353 0588",
+      "officeSuburb": "Revesby",
+      "officePostcode": "2212",
+      "officeLines": [
+        "22 Revesby Place"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Soon"
+    },
+    {
+      "id": "house:barker",
+      "chamber": "house",
+      "name": "Tony Pasin",
+      "firstName": "Tony",
+      "surname": "Pasin",
+      "honorific": "Mr",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Barker",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4864",
+      "phoneElectorate": "(08) 8724 7730",
+      "officeSuburb": "Mt Gambier",
+      "officePostcode": "5290",
+      "officeLines": [
+        "27 Commercial Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Pasin"
+    },
+    {
+      "id": "house:barton",
+      "chamber": "house",
+      "name": "Ash Ambihaipahar",
+      "firstName": "Ash",
+      "surname": "Ambihaipahar",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Barton",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4511",
+      "phoneElectorate": "(02) 9587 1555",
+      "officeSuburb": "Kogarah",
+      "officePostcode": "2217",
+      "officeLines": [
+        "Level 2, 24 Montgomery Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ambihaipahar"
+    },
+    {
+      "id": "house:bass",
+      "chamber": "house",
+      "name": "Jess Teesdale",
+      "firstName": "Jess",
+      "surname": "Teesdale",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Bass",
+      "state": "TAS",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4591",
+      "phoneElectorate": "(03) 6334 7033",
+      "officeSuburb": "Launceston",
+      "officePostcode": "7250",
+      "officeLines": [
+        "98-102 St John Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Teesdale"
+    },
+    {
+      "id": "house:bean",
+      "chamber": "house",
+      "name": "David Smith",
+      "firstName": "David",
+      "surname": "Smith",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Bean",
+      "state": "ACT",
+      "titles": [
+        "Government Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4346",
+      "phoneElectorate": "(02) 6293 1344",
+      "officeSuburb": "Tuggeranong",
+      "officePostcode": "2900",
+      "officeLines": [
+        "205 Anketell Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Smith"
+    },
+    {
+      "id": "house:bendigo",
+      "chamber": "house",
+      "name": "Lisa Chesters",
+      "firstName": "Lisa",
+      "surname": "Chesters",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Bendigo",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4657",
+      "phoneElectorate": "(03) 5443 9055",
+      "officeSuburb": "Bendigo",
+      "officePostcode": "3550",
+      "officeLines": [
+        "Cnr. Williamson & Myers Streets"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chesters"
+    },
+    {
+      "id": "house:bennelong",
+      "chamber": "house",
+      "name": "Jerome Laxale",
+      "firstName": "Jerome",
+      "surname": "Laxale",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Bennelong",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4847",
+      "phoneElectorate": "(02) 9869 4288",
+      "officeSuburb": "Epping",
+      "officePostcode": "2121",
+      "officeLines": [
+        "32 Beecroft Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Laxale"
+    },
+    {
+      "id": "house:berowra",
+      "chamber": "house",
+      "name": "Julian Leeser",
+      "firstName": "Julian",
+      "surname": "Leeser",
+      "honorific": "Mr",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Berowra",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4826",
+      "phoneElectorate": "(02) 9980 1822",
+      "officeSuburb": "Pennant Hills",
+      "officePostcode": "2120",
+      "officeLines": [
+        "Level 11, 423 Pennant Hills Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Leeser"
+    },
+    {
+      "id": "house:blair",
+      "chamber": "house",
+      "name": "Shayne Neumann",
+      "firstName": "Shayne",
+      "surname": "Neumann",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Blair",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4755",
+      "phoneElectorate": "(07) 3201 5300",
+      "officeSuburb": "North Ipswich",
+      "officePostcode": "4305",
+      "officeLines": [
+        "Level 1, The Tarpaulin Building",
+        "2 The Terrace"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Neumann"
+    },
+    {
+      "id": "house:blaxland",
+      "chamber": "house",
+      "name": "Jason Clare",
+      "firstName": "Jason",
+      "surname": "Clare",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Blaxland",
+      "state": "NSW",
+      "titles": [
+        "Minister for Education"
+      ],
+      "ministerialTitle": "Minister for Education",
+      "phoneParliament": "(02) 6277 7350",
+      "phoneElectorate": "(02) 9790 2466",
+      "officeSuburb": "Bankstown",
+      "officePostcode": "2200",
+      "officeLines": [
+        "Suite 7 Level 1, 400 Chapel Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Clare"
+    },
+    {
+      "id": "house:bonner",
+      "chamber": "house",
+      "name": "Kara Cook",
+      "firstName": "Kara",
+      "surname": "Cook",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Bonner",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4544",
+      "phoneElectorate": "(07) 3893 3488",
+      "officeSuburb": "Wynnum",
+      "officePostcode": "4178",
+      "officeLines": [
+        "69 Clara Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cook"
+    },
+    {
+      "id": "house:boothby",
+      "chamber": "house",
+      "name": "Louise Miller-Frost",
+      "firstName": "Louise",
+      "surname": "Miller-Frost",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Boothby",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 2116",
+      "phoneElectorate": "(08) 8374 0511",
+      "officeSuburb": "Glenelg",
+      "officePostcode": "5045",
+      "officeLines": [
+        "Shop 2, 670 ANZAC Highway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Miller-Frost"
+    },
+    {
+      "id": "house:bowman",
+      "chamber": "house",
+      "name": "Henry Pike",
+      "firstName": "Henry",
+      "surname": "Pike",
+      "honorific": "Mr",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Bowman",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4874",
+      "phoneElectorate": "(07) 3821 0155",
+      "officeSuburb": "Cleveland",
+      "officePostcode": "4163",
+      "officeLines": [
+        "Ground floor,",
+        "Unit 1 124, Queen Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Pike"
+    },
+    {
+      "id": "house:braddon",
+      "chamber": "house",
+      "name": "Anne Urquhart",
+      "firstName": "Anne",
+      "surname": "Urquhart",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Braddon",
+      "state": "TAS",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4288",
+      "phoneElectorate": "(03) 6431 1333",
+      "officeSuburb": "Burnie",
+      "officePostcode": "7320",
+      "officeLines": [
+        "Shop 9, 22 Wilmot Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Urquhart"
+    },
+    {
+      "id": "house:bradfield",
+      "chamber": "house",
+      "name": "Nicolette Boele",
+      "firstName": "Nicolette",
+      "surname": "Boele",
+      "honorific": "Ms",
+      "party": "Independent",
+      "partyCode": "IND",
+      "electorate": "Bradfield",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4528",
+      "phoneElectorate": "(02) 9465 3950",
+      "officeSuburb": "Lindfield",
+      "officePostcode": "2070",
+      "officeLines": [
+        "Suite 1, Level 2, 280 Pacific Highway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Boele"
+    },
+    {
+      "id": "house:brand",
+      "chamber": "house",
+      "name": "Madeleine King",
+      "firstName": "Madeleine",
+      "surname": "King",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Brand",
+      "state": "WA",
+      "titles": [
+        "Minister for Resources",
+        "Minister for Northern Australia"
+      ],
+      "ministerialTitle": "Minister for Resources; Minister for Northern Australia",
+      "phoneParliament": "(02) 6277 7930",
+      "phoneElectorate": "(08) 9527 9377",
+      "officeSuburb": "Rockingham",
+      "officePostcode": "6168",
+      "officeLines": [
+        "Unit 1 & 2",
+        "1-3 Kent Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=King"
+    },
+    {
+      "id": "house:brisbane",
+      "chamber": "house",
+      "name": "Madonna Jarrett",
+      "firstName": "Madonna",
+      "surname": "Jarrett",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Brisbane",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4557",
+      "phoneElectorate": "(07) 3862 4044",
+      "officeSuburb": "Albion",
+      "officePostcode": "4010",
+      "officeLines": [
+        "349 Sandgate Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Jarrett"
+    },
+    {
+      "id": "house:bruce",
+      "chamber": "house",
+      "name": "Julian Hill",
+      "firstName": "Julian",
+      "surname": "Hill",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Bruce",
+      "state": "VIC",
+      "titles": [
+        "Assistant Minister for Citizenship, Customs and Multicultural Affairs",
+        "Assistant Minister for International Education"
+      ],
+      "ministerialTitle": "Assistant Minister for Citizenship, Customs and Multicultural Affairs; Assistant Minister for International Education",
+      "phoneParliament": "(02) 6277 2174",
+      "phoneElectorate": "(03) 9791 7770",
+      "officeSuburb": "Dandenong",
+      "officePostcode": "3175",
+      "officeLines": [
+        "45 Robinson Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hill",
+      "portfolio": [
+        "citizenship-assistant"
+      ]
+    },
+    {
+      "id": "house:bullwinkel",
+      "chamber": "house",
+      "name": "Trish Cook",
+      "firstName": "Trish",
+      "surname": "Cook",
+      "honorific": "Dr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Bullwinkel",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4545",
+      "phoneElectorate": "(08) 7079 0480",
+      "officeSuburb": "Kalamunda",
+      "officePostcode": "6076",
+      "officeLines": [
+        "Unit 2 and 3",
+        "14 -16 Mead Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cook"
+    },
+    {
+      "id": "house:burt",
+      "chamber": "house",
+      "name": "Matt Keogh",
+      "firstName": "Matt",
+      "surname": "Keogh",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Burt",
+      "state": "WA",
+      "titles": [
+        "Minister for Veterans' Affairs",
+        "Minister for Defence Personnel"
+      ],
+      "ministerialTitle": "Minister for Veterans' Affairs; Minister for Defence Personnel",
+      "phoneParliament": "(02) 6277 7820",
+      "phoneElectorate": "(08) 9390 0180",
+      "officeSuburb": "Kelmscott",
+      "officePostcode": "6111",
+      "officeLines": [
+        "Unit 2",
+        "2808 Albany Highway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Keogh"
+    },
+    {
+      "id": "house:calare",
+      "chamber": "house",
+      "name": "Andrew Gee",
+      "firstName": "Andrew",
+      "surname": "Gee",
+      "honorific": "Hon",
+      "party": "Independent",
+      "partyCode": "IND",
+      "electorate": "Calare",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4139",
+      "phoneElectorate": "(02) 6361 7138",
+      "officeSuburb": "Orange",
+      "officePostcode": "2800",
+      "officeLines": [
+        "Suite  1/179A Anson Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gee"
+    },
+    {
+      "id": "house:calwell",
+      "chamber": "house",
+      "name": "Basem Abdo",
+      "firstName": "Basem",
+      "surname": "Abdo",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Calwell",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4503",
+      "phoneElectorate": "(03) 9367 5216",
+      "officeSuburb": "Broadmeadows",
+      "officePostcode": "3047",
+      "officeLines": [
+        "14 Dimboola Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Abdo"
+    },
+    {
+      "id": "house:canberra",
+      "chamber": "house",
+      "name": "Alicia Payne",
+      "firstName": "Alicia",
+      "surname": "Payne",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Canberra",
+      "state": "ACT",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4168",
+      "phoneElectorate": "(02) 6247 8475",
+      "officeSuburb": "Canberra",
+      "officePostcode": "2601",
+      "officeLines": [
+        "221 London Circuit"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Payne"
+    },
+    {
+      "id": "house:canning",
+      "chamber": "house",
+      "name": "Andrew Hastie",
+      "firstName": "Andrew",
+      "surname": "Hastie",
+      "honorific": "Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Canning",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4223",
+      "phoneElectorate": "(08) 9534 8044",
+      "officeSuburb": "Mandurah",
+      "officePostcode": "6210",
+      "officeLines": [
+        "Tenancy 1, 78 Pinjarra Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hastie"
+    },
+    {
+      "id": "house:capricornia",
+      "chamber": "house",
+      "name": "Michelle Landry",
+      "firstName": "Michelle",
+      "surname": "Landry",
+      "honorific": "Hon",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Capricornia",
+      "state": "QLD",
+      "titles": [
+        "Chief Nationals Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4283",
+      "phoneElectorate": "(07) 4922 6604",
+      "officeSuburb": "Rockhampton",
+      "officePostcode": "4700",
+      "officeLines": [
+        "3/71-73 Denham Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Landry"
+    },
+    {
+      "id": "house:casey",
+      "chamber": "house",
+      "name": "Aaron Violi",
+      "firstName": "Aaron",
+      "surname": "Violi",
+      "honorific": "Mr",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Casey",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4968",
+      "phoneElectorate": "(03) 9727 0799",
+      "officeSuburb": "Lilydale",
+      "officePostcode": "3140",
+      "officeLines": [
+        "110-112 Main Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Violi"
+    },
+    {
+      "id": "house:chifley",
+      "chamber": "house",
+      "name": "Ed Husic",
+      "firstName": "Ed",
+      "surname": "Husic",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Chifley",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4108",
+      "phoneElectorate": "(02) 9625 4344",
+      "officeSuburb": "Plumpton",
+      "officePostcode": "2761",
+      "officeLines": [
+        "Shop 41, Plumpton Marketplace",
+        "Cnr Hyatts and Jersey Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Husic"
+    },
+    {
+      "id": "house:chisholm",
+      "chamber": "house",
+      "name": "Carina Garland",
+      "firstName": "Carina",
+      "surname": "Garland",
+      "honorific": "Dr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Chisholm",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4713",
+      "phoneElectorate": "(03) 9808 3188",
+      "officeSuburb": "Mount Waverley",
+      "officePostcode": "3149",
+      "officeLines": [
+        "Ground Floor, 257 Blackburn Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Garland"
+    },
+    {
+      "id": "house:clark",
+      "chamber": "house",
+      "name": "Andrew Wilkie",
+      "firstName": "Andrew",
+      "surname": "Wilkie",
+      "honorific": "Mr",
+      "party": "Independent",
+      "partyCode": "IND",
+      "electorate": "Clark",
+      "state": "TAS",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4766",
+      "phoneElectorate": "(03) 6234 5255",
+      "officeSuburb": "Hobart",
+      "officePostcode": "7001",
+      "officeLines": [
+        "188 Collins Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wilkie"
+    },
+    {
+      "id": "house:cook",
+      "chamber": "house",
+      "name": "Simon Kennedy",
+      "firstName": "Simon",
+      "surname": "Kennedy",
+      "honorific": "Mr",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Cook",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4237",
+      "phoneElectorate": "(02) 9523 0339",
+      "officeSuburb": "Cronulla",
+      "officePostcode": "2230",
+      "officeLines": [
+        "Suite 102, Level 1",
+        "30 The Kingsway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Kennedy"
+    },
+    {
+      "id": "house:cooper",
+      "chamber": "house",
+      "name": "Ged Kearney",
+      "firstName": "Ged",
+      "surname": "Kearney",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Cooper",
+      "state": "VIC",
+      "titles": [
+        "Assistant Minister for Social Services",
+        "Assistant Minister for the Prevention of Family Violence"
+      ],
+      "ministerialTitle": "Assistant Minister for Social Services; Assistant Minister for the Prevention of Family Violence",
+      "phoneParliament": "(02) 6277 4152",
+      "phoneElectorate": "(03) 9416 8690",
+      "officeSuburb": "Preston",
+      "officePostcode": "3072",
+      "officeLines": [
+        "159 High Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Kearney"
+    },
+    {
+      "id": "house:corangamite",
+      "chamber": "house",
+      "name": "Libby Coker",
+      "firstName": "Libby",
+      "surname": "Coker",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Corangamite",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4363",
+      "phoneElectorate": "(03) 5261 7683",
+      "officeSuburb": "Armstrong Creek",
+      "officePostcode": "3217",
+      "officeLines": [
+        "26/500-540 Torquay Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Coker"
+    },
+    {
+      "id": "house:corio",
+      "chamber": "house",
+      "name": "Richard Marles",
+      "firstName": "Richard",
+      "surname": "Marles",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Corio",
+      "state": "VIC",
+      "titles": [
+        "Deputy Prime Minister",
+        "Minister for Defence"
+      ],
+      "ministerialTitle": "Deputy Prime Minister; Minister for Defence",
+      "phoneParliament": "(02) 6277 7800",
+      "phoneElectorate": "(03) 5221 3033",
+      "officeSuburb": "Geelong",
+      "officePostcode": "3220",
+      "officeLines": [
+        "Suite 1, Ground Floor",
+        "92-100 Brougham Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Marles"
+    },
+    {
+      "id": "house:cowan",
+      "chamber": "house",
+      "name": "Anne Aly",
+      "firstName": "Anne",
+      "surname": "Aly",
+      "honorific": "Hon Dr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Cowan",
+      "state": "WA",
+      "titles": [
+        "Minister for Small Business",
+        "Minister for International Development",
+        "Minister for Multicultural Affairs"
+      ],
+      "ministerialTitle": "Minister for Small Business; Minister for International Development; Minister for Multicultural Affairs",
+      "phoneParliament": "(02) 6277 7630",
+      "phoneElectorate": "(08) 9409 4517",
+      "officeSuburb": "Westminster",
+      "officePostcode": "6061",
+      "officeLines": [
+        "Shop 6A, Stirling Central Shopping Central",
+        "478 Wanneroo Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Aly",
+      "portfolio": [
+        "multicultural"
+      ]
+    },
+    {
+      "id": "house:cowper",
+      "chamber": "house",
+      "name": "Pat Conaghan",
+      "firstName": "Pat",
+      "surname": "Conaghan",
+      "honorific": "Mr",
+      "party": "Nationals",
+      "partyCode": "NATS",
+      "electorate": "Cowper",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4446",
+      "phoneElectorate": "(02) 6583 8387",
+      "officeSuburb": "Port Macquarie",
+      "officePostcode": "2444",
+      "officeLines": [
+        "Level 4, 41-47 Horton Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Conaghan"
+    },
+    {
+      "id": "house:cunningham",
+      "chamber": "house",
+      "name": "Alison Byrnes",
+      "firstName": "Alison",
+      "surname": "Byrnes",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Cunningham",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4532",
+      "phoneElectorate": "(02) 4228 5899",
+      "officeSuburb": "Wollongong",
+      "officePostcode": "2500",
+      "officeLines": [
+        "74 Crown Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Byrnes"
+    },
+    {
+      "id": "house:curtin",
+      "chamber": "house",
+      "name": "Kate Chaney",
+      "firstName": "Kate",
+      "surname": "Chaney",
+      "honorific": "Ms",
+      "party": "Independent",
+      "partyCode": "IND",
+      "electorate": "Curtin",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4655",
+      "phoneElectorate": "(08) 9388 0288",
+      "officeSuburb": "Floreat",
+      "officePostcode": "6014",
+      "officeLines": [
+        "Shop 98 Floreat Forum Shopping Centre",
+        "5 Howtree Place"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chaney"
+    },
+    {
+      "id": "house:dawson",
+      "chamber": "house",
+      "name": "Andrew Willcox",
+      "firstName": "Andrew",
+      "surname": "Willcox",
+      "honorific": "Mr",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Dawson",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 2104",
+      "phoneElectorate": "(07) 4944 0662",
+      "officeSuburb": "Mackay",
+      "officePostcode": "4740",
+      "officeLines": [
+        "Level 2",
+        "47 Gordon Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Willcox"
+    },
+    {
+      "id": "house:deakin",
+      "chamber": "house",
+      "name": "Matt Gregg",
+      "firstName": "Matt",
+      "surname": "Gregg",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Deakin",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4551",
+      "phoneElectorate": "(03) 7066 6599",
+      "officeSuburb": "Mitcham",
+      "officePostcode": "3132",
+      "officeLines": [
+        "Unit 5, 602 Whitehorse Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gregg"
+    },
+    {
+      "id": "house:dickson",
+      "chamber": "house",
+      "name": "Ali France",
+      "firstName": "Ali",
+      "surname": "France",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Dickson",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4550",
+      "phoneElectorate": "(07) 3205 9977",
+      "officeSuburb": "Strathpine",
+      "officePostcode": "4500",
+      "officeLines": [
+        "454 Gympie Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=France"
+    },
+    {
+      "id": "house:dobell",
+      "chamber": "house",
+      "name": "Emma McBride",
+      "firstName": "Emma",
+      "surname": "McBride",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Dobell",
+      "state": "NSW",
+      "titles": [
+        "Assistant Minister for Mental Health and Suicide Prevention",
+        "Assistant Minister for Rural and Regional Health"
+      ],
+      "ministerialTitle": "Assistant Minister for Mental Health and Suicide Prevention; Assistant Minister for Rural and Regional Health",
+      "phoneParliament": "(02) 6277 4515",
+      "phoneElectorate": "(02) 4353 0127",
+      "officeSuburb": "Wyong",
+      "officePostcode": "2259",
+      "officeLines": [
+        "T6 - T7, Village Central",
+        "18-34 Alison Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McBride"
+    },
+    {
+      "id": "house:dunkley",
+      "chamber": "house",
+      "name": "Jodie Belyea",
+      "firstName": "Jodie",
+      "surname": "Belyea",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Dunkley",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4370",
+      "phoneElectorate": "(03) 9781 2333",
+      "officeSuburb": "Frankston",
+      "officePostcode": "3199",
+      "officeLines": [
+        "37 Playne Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Belyea"
+    },
+    {
+      "id": "house:durack",
+      "chamber": "house",
+      "name": "Melissa Price",
+      "firstName": "Melissa",
+      "surname": "Price",
+      "honorific": "Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Durack",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4315",
+      "phoneElectorate": "(08) 9964 2195",
+      "officeSuburb": "Geraldton",
+      "officePostcode": "6530",
+      "officeLines": [
+        "2B/209 Foreshore Drive"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Price"
+    },
+    {
+      "id": "house:eden-monaro",
+      "chamber": "house",
+      "name": "Kristy McBain",
+      "firstName": "Kristy",
+      "surname": "McBain",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Eden-Monaro",
+      "state": "NSW",
+      "titles": [
+        "Minister for Regional Development, Local Government and Territories",
+        "Minister for Emergency Management"
+      ],
+      "ministerialTitle": "Minister for Regional Development, Local Government and Territories; Minister for Emergency Management",
+      "phoneParliament": "(02) 6277 7060",
+      "phoneElectorate": "(02) 6284 2442",
+      "officeSuburb": "Queanbeyan",
+      "officePostcode": "2620",
+      "officeLines": [
+        "1/21-25 Monaro Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McBain"
+    },
+    {
+      "id": "house:fadden",
+      "chamber": "house",
+      "name": "Cameron Caldwell",
+      "firstName": "Cameron",
+      "surname": "Caldwell",
+      "honorific": "Mr",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Fadden",
+      "state": "QLD",
+      "titles": [
+        "Opposition Chief Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4088",
+      "phoneElectorate": "(07) 5500 5919",
+      "officeSuburb": "Labrador",
+      "officePostcode": "4215",
+      "officeLines": [
+        "Unit 1, 110 Brisbane Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Caldwell"
+    },
+    {
+      "id": "house:fairfax",
+      "chamber": "house",
+      "name": "Ted O'Brien",
+      "firstName": "Ted",
+      "surname": "O'Brien",
+      "honorific": "Mr",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Fairfax",
+      "state": "QLD",
+      "titles": [
+        "Deputy Leader of the Opposition"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4130",
+      "phoneElectorate": "(07) 5479 2800",
+      "officeSuburb": "Maroochydore",
+      "officePostcode": "4558",
+      "officeLines": [
+        "17 Southern Drive"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Brien"
+    },
+    {
+      "id": "house:farrer",
+      "chamber": "house",
+      "name": "David Farley",
+      "firstName": "David",
+      "surname": "Farley",
+      "honorific": "Mr",
+      "party": "One Nation",
+      "partyCode": "ON",
+      "electorate": "Farrer",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4155",
+      "phoneElectorate": "(02) 6021 3264",
+      "officeSuburb": "Albury",
+      "officePostcode": "2640",
+      "officeLines": [
+        "517 Kiewa Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Farley"
+    },
+    {
+      "id": "house:fenner",
+      "chamber": "house",
+      "name": "Andrew Leigh",
+      "firstName": "Andrew",
+      "surname": "Leigh",
+      "honorific": "Hon Dr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Fenner",
+      "state": "ACT",
+      "titles": [
+        "Assistant Minister for Productivity, Competition, Charities and Treasury"
+      ],
+      "ministerialTitle": "Assistant Minister for Productivity, Competition, Charities and Treasury",
+      "phoneParliament": "(02) 6277 4140",
+      "phoneElectorate": "(02) 6247 4396",
+      "officeSuburb": "Gungahlin",
+      "officePostcode": "2912",
+      "officeLines": [
+        "Cnr Gungahlin Pl & Efkarpidis St"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Leigh"
+    },
+    {
+      "id": "house:fisher",
+      "chamber": "house",
+      "name": "Andrew Wallace",
+      "firstName": "Andrew",
+      "surname": "Wallace",
+      "honorific": "Mr",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Fisher",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4282",
+      "phoneElectorate": "(07) 5493 5556",
+      "officeSuburb": "Bokarina",
+      "officePostcode": "4575",
+      "officeLines": [
+        "'The Edge' Upper Level East, Unit 11",
+        "10 Lake Kawana Boulevard"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wallace"
+    },
+    {
+      "id": "house:flinders",
+      "chamber": "house",
+      "name": "Zoe McKenzie",
+      "firstName": "Zoe",
+      "surname": "McKenzie",
+      "honorific": "Ms",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Flinders",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4866",
+      "phoneElectorate": "(03) 5977 9082",
+      "officeSuburb": "Somerville",
+      "officePostcode": "3912",
+      "officeLines": [
+        "1/49 Eramosa Road West"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McKenzie"
+    },
+    {
+      "id": "house:flynn",
+      "chamber": "house",
+      "name": "Colin Boyce",
+      "firstName": "Colin",
+      "surname": "Boyce",
+      "honorific": "Mr",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Flynn",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 2115",
+      "phoneElectorate": "(07) 4972 5465",
+      "officeSuburb": "Gladstone",
+      "officePostcode": "4680",
+      "officeLines": [
+        "76 Goondoon Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Boyce"
+    },
+    {
+      "id": "house:forde",
+      "chamber": "house",
+      "name": "Rowan Holzberger",
+      "firstName": "Rowan",
+      "surname": "Holzberger",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Forde",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4556",
+      "phoneElectorate": "(07) 3807 6340",
+      "officeSuburb": "Beenleigh",
+      "officePostcode": "4207",
+      "officeLines": [
+        "110-112 George Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Holzberger"
+    },
+    {
+      "id": "house:forrest",
+      "chamber": "house",
+      "name": "Ben Small",
+      "firstName": "Ben",
+      "surname": "Small",
+      "honorific": "Mr",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Forrest",
+      "state": "WA",
+      "titles": [
+        "Opposition Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4265",
+      "phoneElectorate": "(08) 9721 3788",
+      "officeSuburb": "Bunbury",
+      "officePostcode": "6230",
+      "officeLines": [
+        "Units 7 & 8 Grand Cinema Complex, Cnr Victoria and Clifton Streets"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Small"
+    },
+    {
+      "id": "house:fowler",
+      "chamber": "house",
+      "name": "Dai Le",
+      "firstName": "Dai",
+      "surname": "Le",
+      "honorific": "Ms",
+      "party": "Independent",
+      "partyCode": "IND",
+      "electorate": "Fowler",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4719",
+      "phoneElectorate": "(02) 9726 3988",
+      "officeSuburb": "Canley Heights",
+      "officePostcode": "2166",
+      "officeLines": [
+        "270 Canley Vale Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Le"
+    },
+    {
+      "id": "house:franklin",
+      "chamber": "house",
+      "name": "Julie Collins",
+      "firstName": "Julie",
+      "surname": "Collins",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Franklin",
+      "state": "TAS",
+      "titles": [
+        "Minister for Agriculture, Fisheries and Forestry"
+      ],
+      "ministerialTitle": "Minister for Agriculture, Fisheries and Forestry",
+      "phoneParliament": "(02) 6277 7190",
+      "phoneElectorate": "(03) 6244 1222",
+      "officeSuburb": "Rosny Park",
+      "officePostcode": "7018",
+      "officeLines": [
+        "18 Ross Avenue"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Collins"
+    },
+    {
+      "id": "house:fraser",
+      "chamber": "house",
+      "name": "Daniel Mulino",
+      "firstName": "Daniel",
+      "surname": "Mulino",
+      "honorific": "Hon Dr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Fraser",
+      "state": "VIC",
+      "titles": [
+        "Assistant Treasurer",
+        "Minister for Financial Services"
+      ],
+      "ministerialTitle": "Assistant Treasurer; Minister for Financial Services",
+      "phoneParliament": "(02) 6277 7230",
+      "phoneElectorate": "(03) 9070 1974",
+      "officeSuburb": "Sunshine",
+      "officePostcode": "3020",
+      "officeLines": [
+        "Shop 1 25-27 Clarke Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Mulino"
+    },
+    {
+      "id": "house:fremantle",
+      "chamber": "house",
+      "name": "Josh Wilson",
+      "firstName": "Josh",
+      "surname": "Wilson",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Fremantle",
+      "state": "WA",
+      "titles": [
+        "Assistant Minister for Climate Change and Energy",
+        "Assistant Minister for Emergency Management"
+      ],
+      "ministerialTitle": "Assistant Minister for Climate Change and Energy; Assistant Minister for Emergency Management",
+      "phoneParliament": "(02) 6277 2067",
+      "phoneElectorate": "(08) 9335 8555",
+      "officeSuburb": "Fremantle",
+      "officePostcode": "6160",
+      "officeLines": [
+        "Office 12, Level 1",
+        "135 High Street Mall"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wilson"
+    },
+    {
+      "id": "house:gellibrand",
+      "chamber": "house",
+      "name": "Tim Watts",
+      "firstName": "Tim",
+      "surname": "Watts",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Gellibrand",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4537",
+      "phoneElectorate": "(03) 9687 7661",
+      "officeSuburb": "Newport",
+      "officePostcode": "3015",
+      "officeLines": [
+        "Ground Floor Units 2 & 3",
+        "455 Melbourne Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Watts"
+    },
+    {
+      "id": "house:gilmore",
+      "chamber": "house",
+      "name": "Fiona Phillips",
+      "firstName": "Fiona",
+      "surname": "Phillips",
+      "honorific": "Mrs",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Gilmore",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4372",
+      "phoneElectorate": "(02) 4423 1782",
+      "officeSuburb": "Nowra",
+      "officePostcode": "2541",
+      "officeLines": [
+        "3/59 Junction Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Phillips"
+    },
+    {
+      "id": "house:gippsland",
+      "chamber": "house",
+      "name": "Darren Chester",
+      "firstName": "Darren",
+      "surname": "Chester",
+      "honorific": "Hon",
+      "party": "Nationals",
+      "partyCode": "NATS",
+      "electorate": "Gippsland",
+      "state": "VIC",
+      "titles": [
+        "Deputy Leader of the National Party"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4728",
+      "phoneElectorate": "(03) 5144 6744",
+      "officeSuburb": "Sale",
+      "officePostcode": "3850",
+      "officeLines": [
+        "Level 1, 89 Raymond Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chester"
+    },
+    {
+      "id": "house:goldstein",
+      "chamber": "house",
+      "name": "Tim Wilson",
+      "firstName": "Tim",
+      "surname": "Wilson",
+      "honorific": "Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Goldstein",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4595",
+      "phoneElectorate": "(03) 9557 4644",
+      "officeSuburb": "Brighton East",
+      "officePostcode": "3187",
+      "officeLines": [
+        "677 Nepean Highway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wilson"
+    },
+    {
+      "id": "house:gorton",
+      "chamber": "house",
+      "name": "Alice Jordan-Baird",
+      "firstName": "Alice",
+      "surname": "Jordan-Baird",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Gorton",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4561",
+      "phoneElectorate": "(03) 8390 6166",
+      "officeSuburb": "Caroline Springs",
+      "officePostcode": "3023",
+      "officeLines": [
+        "Shop 3, 11 Commercial Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Jordan-Baird"
+    },
+    {
+      "id": "house:grayndler",
+      "chamber": "house",
+      "name": "Anthony Albanese",
+      "firstName": "Anthony",
+      "surname": "Albanese",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Grayndler",
+      "state": "NSW",
+      "titles": [
+        "Prime Minister"
+      ],
+      "ministerialTitle": "Prime Minister",
+      "phoneParliament": "(02) 6277 7700",
+      "phoneElectorate": "(02) 9564 3588",
+      "officeSuburb": "Marrickville",
+      "officePostcode": "2204",
+      "officeLines": [
+        "Tenancy R6, 14 Rich Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Albanese"
+    },
+    {
+      "id": "house:greenway",
+      "chamber": "house",
+      "name": "Michelle Rowland",
+      "firstName": "Michelle",
+      "surname": "Rowland",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Greenway",
+      "state": "NSW",
+      "titles": [
+        "Attorney-General"
+      ],
+      "ministerialTitle": "Attorney-General",
+      "phoneParliament": "(02) 6277 7300",
+      "phoneElectorate": "(02) 9671 4780",
+      "officeSuburb": "Tallawong",
+      "officePostcode": "2762",
+      "officeLines": [
+        "Shop 48, Level 1, Tallawong Village",
+        "3 Elymus Glade"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Rowland"
+    },
+    {
+      "id": "house:grey",
+      "chamber": "house",
+      "name": "Tom Venning",
+      "firstName": "Tom",
+      "surname": "Venning",
+      "honorific": "Mr",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Grey",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4594",
+      "phoneElectorate": "(08) 8821 4366",
+      "officeSuburb": "Kadina",
+      "officePostcode": "5554",
+      "officeLines": [
+        "43 Taylor Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Venning"
+    },
+    {
+      "id": "house:griffith",
+      "chamber": "house",
+      "name": "Renee Coffey",
+      "firstName": "Renee",
+      "surname": "Coffey",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Griffith",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4541",
+      "phoneElectorate": "(07) 3397 1674",
+      "officeSuburb": "Greenslopes",
+      "officePostcode": "4120",
+      "officeLines": [
+        "76 Old Cleveland Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Coffey"
+    },
+    {
+      "id": "house:groom",
+      "chamber": "house",
+      "name": "Garth Hamilton",
+      "firstName": "Garth",
+      "surname": "Hamilton",
+      "honorific": "Mr",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Groom",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4630",
+      "phoneElectorate": "(07) 4632 4144",
+      "officeSuburb": "Toowoomba",
+      "officePostcode": "4350",
+      "officeLines": [
+        "Ground Floor",
+        "516 Ruthven Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hamilton"
+    },
+    {
+      "id": "house:hasluck",
+      "chamber": "house",
+      "name": "Tania Lawrence",
+      "firstName": "Tania",
+      "surname": "Lawrence",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Hasluck",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4761",
+      "phoneElectorate": "(08) 6245 3340",
+      "officeSuburb": "Midland",
+      "officePostcode": "6056",
+      "officeLines": [
+        "Shop 2",
+        "257 Great Eastern Highway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Lawrence"
+    },
+    {
+      "id": "house:hawke",
+      "chamber": "house",
+      "name": "Sam Rae",
+      "firstName": "Sam",
+      "surname": "Rae",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Hawke",
+      "state": "VIC",
+      "titles": [
+        "Minister for Aged Care and Seniors"
+      ],
+      "ministerialTitle": "Minister for Aged Care and Seniors",
+      "phoneParliament": "(02) 6277 7720",
+      "phoneElectorate": "(03) 9070 1960",
+      "officeSuburb": "Melton",
+      "officePostcode": "3337",
+      "officeLines": [
+        "316 High Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Rae"
+    },
+    {
+      "id": "house:herbert",
+      "chamber": "house",
+      "name": "Phillip Thompson",
+      "firstName": "Phillip",
+      "surname": "Thompson",
+      "honorific": "Mr",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Herbert",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4418",
+      "phoneElectorate": "(07) 4725 2066",
+      "officeSuburb": "Cranbrook",
+      "officePostcode": "4814",
+      "officeLines": [
+        "G06 Nathan Business Centre",
+        "340 Ross River Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Thompson"
+    },
+    {
+      "id": "house:hindmarsh",
+      "chamber": "house",
+      "name": "Mark Butler",
+      "firstName": "Mark",
+      "surname": "Butler",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Hindmarsh",
+      "state": "SA",
+      "titles": [
+        "Deputy Leader of the House",
+        "Minister for Disability and the National Disability Insurance Scheme",
+        "Minister for Health and Ageing"
+      ],
+      "ministerialTitle": "Minister for Disability and the National Disability Insurance Scheme; Minister for Health and Ageing",
+      "phoneParliament": "(02) 6277 7220",
+      "phoneElectorate": "(08) 8241 0190",
+      "officeSuburb": "Port Adelaide",
+      "officePostcode": "5015",
+      "officeLines": [
+        "21 Commercial Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Butler"
+    },
+    {
+      "id": "house:hinkler",
+      "chamber": "house",
+      "name": "David Batt",
+      "firstName": "David",
+      "surname": "Batt",
+      "honorific": "Mr",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Hinkler",
+      "state": "QLD",
+      "titles": [
+        "Deputy Nationals Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4517",
+      "phoneElectorate": "(07) 4152 0744",
+      "officeSuburb": "Bundaberg",
+      "officePostcode": "4670",
+      "officeLines": [
+        "41 Woongarra Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Batt"
+    },
+    {
+      "id": "house:holt",
+      "chamber": "house",
+      "name": "Cassandra Fernando",
+      "firstName": "Cassandra",
+      "surname": "Fernando",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Holt",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4706",
+      "phoneElectorate": "(03) 8790 0556",
+      "officeSuburb": "Cranbourne West",
+      "officePostcode": "3977",
+      "officeLines": [
+        "Shop 7, 1060 Thompsons Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Fernando"
+    },
+    {
+      "id": "house:hotham",
+      "chamber": "house",
+      "name": "Clare O'Neil",
+      "firstName": "Clare",
+      "surname": "O'Neil",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Hotham",
+      "state": "VIC",
+      "titles": [
+        "Minister for Housing",
+        "Minister for Homelessness",
+        "Minister for Cities"
+      ],
+      "ministerialTitle": "Minister for Housing; Minister for Homelessness; Minister for Cities",
+      "phoneParliament": "(02) 6277 7610",
+      "phoneElectorate": "(03) 9545 6211",
+      "officeSuburb": "Oakleigh",
+      "officePostcode": "3166",
+      "officeLines": [
+        "17-19 Atherton Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Neil"
+    },
+    {
+      "id": "house:hughes",
+      "chamber": "house",
+      "name": "David Moncrieff",
+      "firstName": "David",
+      "surname": "Moncrieff",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Hughes",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4566",
+      "phoneElectorate": "(02) 9521 6262",
+      "officeSuburb": "Sutherland",
+      "officePostcode": "2232",
+      "officeLines": [
+        "Shop 1, 9-15, East Parade"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Moncrieff"
+    },
+    {
+      "id": "house:hume",
+      "chamber": "house",
+      "name": "Angus Taylor",
+      "firstName": "Angus",
+      "surname": "Taylor",
+      "honorific": "Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Hume",
+      "state": "NSW",
+      "titles": [
+        "Leader of the Opposition"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4022",
+      "phoneElectorate": "(02) 4658 7188",
+      "officeSuburb": "Camden",
+      "officePostcode": "2570",
+      "officeLines": [
+        "18 Hill Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Taylor"
+    },
+    {
+      "id": "house:hunter",
+      "chamber": "house",
+      "name": "Dan Repacholi",
+      "firstName": "Dan",
+      "surname": "Repacholi",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Hunter",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4930",
+      "phoneElectorate": "(02) 4991 1022",
+      "officeSuburb": "Cessnock",
+      "officePostcode": "2325",
+      "officeLines": [
+        "3 Edward Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Repacholi"
+    },
+    {
+      "id": "house:indi",
+      "chamber": "house",
+      "name": "Helen Haines",
+      "firstName": "Helen",
+      "surname": "Haines",
+      "honorific": "Dr",
+      "party": "Independent",
+      "partyCode": "IND",
+      "electorate": "Indi",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4182",
+      "phoneElectorate": "(03) 5721 7077",
+      "officeSuburb": "Wangaratta",
+      "officePostcode": "3677",
+      "officeLines": [
+        "117 Murphy Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Haines"
+    },
+    {
+      "id": "house:isaacs",
+      "chamber": "house",
+      "name": "Mark Dreyfus",
+      "firstName": "Mark",
+      "surname": "Dreyfus",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Isaacs",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4061",
+      "phoneElectorate": "(03) 9580 4651",
+      "officeSuburb": "Mordialloc",
+      "officePostcode": "3195",
+      "officeLines": [
+        "566 Main Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Dreyfus"
+    },
+    {
+      "id": "house:jagajaga",
+      "chamber": "house",
+      "name": "Kate Thwaites",
+      "firstName": "Kate",
+      "surname": "Thwaites",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Jagajaga",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4305",
+      "phoneElectorate": "(03) 9459 1411",
+      "officeSuburb": "Heidelberg",
+      "officePostcode": "3084",
+      "officeLines": [
+        "2/37 Burgundy Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Thwaites"
+    },
+    {
+      "id": "house:kennedy",
+      "chamber": "house",
+      "name": "Bob Katter",
+      "firstName": "Bob",
+      "surname": "Katter",
+      "honorific": "Hon",
+      "party": "Katter's Australian Party",
+      "partyCode": "KAP",
+      "electorate": "Kennedy",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4978",
+      "phoneElectorate": "(07) 4061 6066",
+      "officeSuburb": "Innisfail",
+      "officePostcode": "4860",
+      "officeLines": [
+        "14-20 Rankin Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Katter"
+    },
+    {
+      "id": "house:kingsford-smith",
+      "chamber": "house",
+      "name": "Matt Thistlethwaite",
+      "firstName": "Matt",
+      "surname": "Thistlethwaite",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Kingsford Smith",
+      "state": "NSW",
+      "titles": [
+        "Assistant Minister for Immigration",
+        "Assistant Minister for Foreign Affairs and Trade"
+      ],
+      "ministerialTitle": "Assistant Minister for Immigration; Assistant Minister for Foreign Affairs and Trade",
+      "phoneParliament": "(02) 6277 4840",
+      "phoneElectorate": "(02) 9349 6007",
+      "officeSuburb": "Maroubra",
+      "officePostcode": "2035",
+      "officeLines": [
+        "Shop 6",
+        "205 Maroubra Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Thistlethwaite",
+      "portfolio": [
+        "immigration-assistant"
+      ]
+    },
+    {
+      "id": "house:kingston",
+      "chamber": "house",
+      "name": "Amanda Rishworth",
+      "firstName": "Amanda",
+      "surname": "Rishworth",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Kingston",
+      "state": "SA",
+      "titles": [
+        "Minister for Employment and Workplace Relations"
+      ],
+      "ministerialTitle": "Minister for Employment and Workplace Relations",
+      "phoneParliament": "(02) 6277 7320",
+      "phoneElectorate": "(08) 8186 2588",
+      "officeSuburb": "Morphett Vale",
+      "officePostcode": "5162",
+      "officeLines": [
+        "232 Main South Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Rishworth"
+    },
+    {
+      "id": "house:kooyong",
+      "chamber": "house",
+      "name": "Monique Ryan",
+      "firstName": "Monique",
+      "surname": "Ryan",
+      "honorific": "Dr",
+      "party": "Independent",
+      "partyCode": "IND",
+      "electorate": "Kooyong",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4915",
+      "phoneElectorate": "(03) 9326 2900",
+      "officeSuburb": "Hawthorn East",
+      "officePostcode": "3123",
+      "officeLines": [
+        "145 Camberwell Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ryan"
+    },
+    {
+      "id": "house:la-trobe",
+      "chamber": "house",
+      "name": "Jason Wood",
+      "firstName": "Jason",
+      "surname": "Wood",
+      "honorific": "Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "La Trobe",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4982",
+      "phoneElectorate": "(03) 9768 9164",
+      "officeSuburb": "Berwick",
+      "officePostcode": "3806",
+      "officeLines": [
+        "Unit 3",
+        "16 Langmore Lane"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wood"
+    },
+    {
+      "id": "house:lalor",
+      "chamber": "house",
+      "name": "Joanne Ryan",
+      "firstName": "Joanne",
+      "surname": "Ryan",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Lalor",
+      "state": "VIC",
+      "titles": [
+        "Chief Government Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4083",
+      "phoneElectorate": "(03) 9742 5800",
+      "officeSuburb": "Werribee",
+      "officePostcode": "3030",
+      "officeLines": [
+        "Tenancies 3 & 4",
+        "203-205 Watton Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ryan"
+    },
+    {
+      "id": "house:leichhardt",
+      "chamber": "house",
+      "name": "Matt Smith",
+      "firstName": "Matt",
+      "surname": "Smith",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Leichhardt",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4583",
+      "phoneElectorate": "(07) 4051 2220",
+      "officeSuburb": "Cairns",
+      "officePostcode": "4870",
+      "officeLines": [
+        "Suite 3 & 4, 200 Mulgrave Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Smith"
+    },
+    {
+      "id": "house:lilley",
+      "chamber": "house",
+      "name": "Anika Wells",
+      "firstName": "Anika",
+      "surname": "Wells",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Lilley",
+      "state": "QLD",
+      "titles": [
+        "Minister for Sport",
+        "Minister for Communications"
+      ],
+      "ministerialTitle": "Minister for Sport; Minister for Communications",
+      "phoneParliament": "(02) 6277 7480",
+      "phoneElectorate": "(07) 3266 8244",
+      "officeSuburb": "Nundah",
+      "officePostcode": "4012",
+      "officeLines": [
+        "Ground floor",
+        "1176 Sandgate Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wells"
+    },
+    {
+      "id": "house:lindsay",
+      "chamber": "house",
+      "name": "Melissa McIntosh",
+      "firstName": "Melissa",
+      "surname": "McIntosh",
+      "honorific": "Mrs",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Lindsay",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4492",
+      "phoneElectorate": "(02) 4722 0600",
+      "officeSuburb": "Penrith",
+      "officePostcode": "2750",
+      "officeLines": [
+        "Ground Floor",
+        "331 High Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McIntosh"
+    },
+    {
+      "id": "house:lingiari",
+      "chamber": "house",
+      "name": "Marion Scrymgour",
+      "firstName": "Marion",
+      "surname": "Scrymgour",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Lingiari",
+      "state": "NT",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4951",
+      "phoneElectorate": "(08) 8952 9696",
+      "officeSuburb": "Alice Springs",
+      "officePostcode": "0870",
+      "officeLines": [
+        "79 Todd Mall"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Scrymgour"
+    },
+    {
+      "id": "house:longman",
+      "chamber": "house",
+      "name": "Terry Young",
+      "firstName": "Terry",
+      "surname": "Young",
+      "honorific": "Mr",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Longman",
+      "state": "QLD",
+      "titles": [
+        "Second Deputy Speaker"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4030",
+      "phoneElectorate": "(07) 5432 3177",
+      "officeSuburb": "Caboolture",
+      "officePostcode": "4510",
+      "officeLines": [
+        "Level 1",
+        "Unit A, 69 King Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Young"
+    },
+    {
+      "id": "house:lyne",
+      "chamber": "house",
+      "name": "Alison Penfold",
+      "firstName": "Alison",
+      "surname": "Penfold",
+      "honorific": "Ms",
+      "party": "Nationals",
+      "partyCode": "NATS",
+      "electorate": "Lyne",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4569",
+      "phoneElectorate": "(02) 6586 4462",
+      "officeSuburb": "Wauchope",
+      "officePostcode": "2446",
+      "officeLines": [
+        "Shops 2 & 3, 43 High Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Penfold"
+    },
+    {
+      "id": "house:lyons",
+      "chamber": "house",
+      "name": "Rebecca White",
+      "firstName": "Rebecca",
+      "surname": "White",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Lyons",
+      "state": "TAS",
+      "titles": [
+        "Assistant Minister for Women",
+        "Assistant Minister for Health and Aged Care",
+        "Assistant Minister for Indigenous Health"
+      ],
+      "ministerialTitle": "Assistant Minister for Women; Assistant Minister for Health and Aged Care; Assistant Minister for Indigenous Health",
+      "phoneParliament": "(02) 6277 4268",
+      "phoneElectorate": "(03) 6263 3721",
+      "officeSuburb": "Bridgewater",
+      "officePostcode": "7030",
+      "officeLines": [
+        "Suite 105, Green Point Plaza, 28 Green Point Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=White"
+    },
+    {
+      "id": "house:macarthur",
+      "chamber": "house",
+      "name": "Mike Freelander",
+      "firstName": "Mike",
+      "surname": "Freelander",
+      "honorific": "Dr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Macarthur",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 2311",
+      "phoneElectorate": "(02) 4620 0293",
+      "officeSuburb": "Campbelltown",
+      "officePostcode": "2560",
+      "officeLines": [
+        "37 Queen Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Freelander"
+    },
+    {
+      "id": "house:mackellar",
+      "chamber": "house",
+      "name": "Sophie Scamps",
+      "firstName": "Sophie",
+      "surname": "Scamps",
+      "honorific": "Dr",
+      "party": "Independent",
+      "partyCode": "IND",
+      "electorate": "Mackellar",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4936",
+      "phoneElectorate": "(02) 9913 9566",
+      "officeSuburb": "Narrabeen",
+      "officePostcode": "2101",
+      "officeLines": [
+        "Shop 1&2, 1238-1246 Pittwater Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Scamps"
+    },
+    {
+      "id": "house:macnamara",
+      "chamber": "house",
+      "name": "Josh Burns",
+      "firstName": "Josh",
+      "surname": "Burns",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Macnamara",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4479",
+      "phoneElectorate": "(03) 9534 8126",
+      "officeSuburb": "St Kilda",
+      "officePostcode": "3182",
+      "officeLines": [
+        "219 Barkly Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Burns"
+    },
+    {
+      "id": "house:macquarie",
+      "chamber": "house",
+      "name": "Susan Templeman",
+      "firstName": "Susan",
+      "surname": "Templeman",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Macquarie",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4784",
+      "phoneElectorate": "(02) 4573 8222",
+      "officeSuburb": "Windsor",
+      "officePostcode": "2756",
+      "officeLines": [
+        "Ground Floor, 299 George Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Templeman"
+    },
+    {
+      "id": "house:makin",
+      "chamber": "house",
+      "name": "Tony Zappia",
+      "firstName": "Tony",
+      "surname": "Zappia",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Makin",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4147",
+      "phoneElectorate": "(08) 8265 3100",
+      "officeSuburb": "Modbury",
+      "officePostcode": "5092",
+      "officeLines": [
+        "959 North East Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Zappia"
+    },
+    {
+      "id": "house:mallee",
+      "chamber": "house",
+      "name": "Anne Webster",
+      "firstName": "Anne",
+      "surname": "Webster",
+      "honorific": "Dr",
+      "party": "Nationals",
+      "partyCode": "NATS",
+      "electorate": "Mallee",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4027",
+      "phoneElectorate": "(03) 5021 5987",
+      "officeSuburb": "Mildura",
+      "officePostcode": "3500",
+      "officeLines": [
+        "Ground Floor, 148 Eighth Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Webster"
+    },
+    {
+      "id": "house:maranoa",
+      "chamber": "house",
+      "name": "David Littleproud",
+      "firstName": "David",
+      "surname": "Littleproud",
+      "honorific": "Hon",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Maranoa",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4231",
+      "phoneElectorate": "(07) 4662 2715",
+      "officeSuburb": "Dalby",
+      "officePostcode": "4405",
+      "officeLines": [
+        "T40-42, Dalby Shopping World",
+        "17-67 Cunningham Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Littleproud"
+    },
+    {
+      "id": "house:maribyrnong",
+      "chamber": "house",
+      "name": "Jo Briskey",
+      "firstName": "Jo",
+      "surname": "Briskey",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Maribyrnong",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4530",
+      "phoneElectorate": "(03) 9326 1300",
+      "officeSuburb": "Moonee Ponds",
+      "officePostcode": "3039",
+      "officeLines": [
+        "Suite 1A, 12 Hall Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Briskey"
+    },
+    {
+      "id": "house:mayo",
+      "chamber": "house",
+      "name": "Rebekha Sharkie",
+      "firstName": "Rebekha",
+      "surname": "Sharkie",
+      "honorific": "Ms",
+      "party": "Centre Alliance",
+      "partyCode": "CA",
+      "electorate": "Mayo",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 2113",
+      "phoneElectorate": "(08) 8398 5566",
+      "officeSuburb": "Mt Barker",
+      "officePostcode": "5251",
+      "officeLines": [
+        "Shop 3, Barker Plaza Shopping Centre",
+        "22-28 Hutchinson Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sharkie"
+    },
+    {
+      "id": "house:mcewen",
+      "chamber": "house",
+      "name": "Rob Mitchell",
+      "firstName": "Rob",
+      "surname": "Mitchell",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "McEwen",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4117",
+      "phoneElectorate": "(03) 5716 3000",
+      "officeSuburb": "Wallan",
+      "officePostcode": "3756",
+      "officeLines": [
+        "57-59 High Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Mitchell"
+    },
+    {
+      "id": "house:mcmahon",
+      "chamber": "house",
+      "name": "Chris Bowen",
+      "firstName": "Chris",
+      "surname": "Bowen",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "McMahon",
+      "state": "NSW",
+      "titles": [
+        "Minister for Climate Change and Energy"
+      ],
+      "ministerialTitle": "Minister for Climate Change and Energy",
+      "phoneParliament": "(02) 6277 7120",
+      "phoneElectorate": "(02) 9604 0710",
+      "officeSuburb": "Fairfield",
+      "officePostcode": "2165",
+      "officeLines": [
+        "Shops 3 & 4",
+        "398 Hamilton Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bowen"
+    },
+    {
+      "id": "house:mcpherson",
+      "chamber": "house",
+      "name": "Leon Rebello",
+      "firstName": "Leon",
+      "surname": "Rebello",
+      "honorific": "Mr",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "McPherson",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4572",
+      "phoneElectorate": "(07) 5580 9111",
+      "officeSuburb": "Varsity Lakes",
+      "officePostcode": "4227",
+      "officeLines": [
+        "47 Watts Drive"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Rebello"
+    },
+    {
+      "id": "house:melbourne",
+      "chamber": "house",
+      "name": "Sarah Witty",
+      "firstName": "Sarah",
+      "surname": "Witty",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Melbourne",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4597",
+      "phoneElectorate": "(03) 7066 6595",
+      "officeSuburb": "Fitzroy",
+      "officePostcode": "3065",
+      "officeLines": [
+        "142 Johnston Sreet"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Witty"
+    },
+    {
+      "id": "house:menzies",
+      "chamber": "house",
+      "name": "Gabriel Ng",
+      "firstName": "Gabriel",
+      "surname": "Ng",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Menzies",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4567",
+      "phoneElectorate": "(03) 7066 6590",
+      "officeSuburb": "Doncaster",
+      "officePostcode": "3108",
+      "officeLines": [
+        "Level 1, 651-653 Doncaster Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ng"
+    },
+    {
+      "id": "house:mitchell",
+      "chamber": "house",
+      "name": "Alex Hawke",
+      "firstName": "Alex",
+      "surname": "Hawke",
+      "honorific": "Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Mitchell",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4202",
+      "phoneElectorate": "(02) 9899 7211",
+      "officeSuburb": "Castle Hill",
+      "officePostcode": "2154",
+      "officeLines": [
+        "Suite 8",
+        "23 Terminus Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hawke"
+    },
+    {
+      "id": "house:monash",
+      "chamber": "house",
+      "name": "Mary Aldred",
+      "firstName": "Mary",
+      "surname": "Aldred",
+      "honorific": "Ms",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Monash",
+      "state": "VIC",
+      "titles": [
+        "Opposition Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4507",
+      "phoneElectorate": "(03) 5614 3600",
+      "officeSuburb": "Warragul",
+      "officePostcode": "3820",
+      "officeLines": [
+        "46C Albert Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Aldred"
+    },
+    {
+      "id": "house:moncrieff",
+      "chamber": "house",
+      "name": "Angie Bell",
+      "firstName": "Angie",
+      "surname": "Bell",
+      "honorific": "Ms",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Moncrieff",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4390",
+      "phoneElectorate": "(07) 5504 6000",
+      "officeSuburb": "Chevron Island",
+      "officePostcode": "4217",
+      "officeLines": [
+        "65-67 Thomas Drive"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bell"
+    },
+    {
+      "id": "house:moore",
+      "chamber": "house",
+      "name": "Tom French",
+      "firstName": "Tom",
+      "surname": "French",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Moore",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4548",
+      "phoneElectorate": "(08) 9300 2244",
+      "officeSuburb": "Joondalup",
+      "officePostcode": "6027",
+      "officeLines": [
+        "Suite 6, 129 Grand Boulevard"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=French"
+    },
+    {
+      "id": "house:moreton",
+      "chamber": "house",
+      "name": "Julie-Ann Campbell",
+      "firstName": "Julie-Ann",
+      "surname": "Campbell",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Moreton",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4536",
+      "phoneElectorate": "(07) 3344 2622",
+      "officeSuburb": "Sunnybank",
+      "officePostcode": "4109",
+      "officeLines": [
+        "Suite 106, Sunnybank Times Square, 250 McCullough Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Campbell"
+    },
+    {
+      "id": "house:new-england",
+      "chamber": "house",
+      "name": "Barnaby Joyce",
+      "firstName": "Barnaby",
+      "surname": "Joyce",
+      "honorific": "Hon",
+      "party": "One Nation",
+      "partyCode": "ON",
+      "electorate": "New England",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4214",
+      "phoneElectorate": "(02) 6761 3080",
+      "officeSuburb": "Tamworth",
+      "officePostcode": "2340",
+      "officeLines": [
+        "Suite 17",
+        "454-456 Peel Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Joyce"
+    },
+    {
+      "id": "house:newcastle",
+      "chamber": "house",
+      "name": "Sharon Claydon",
+      "firstName": "Sharon",
+      "surname": "Claydon",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Newcastle",
+      "state": "NSW",
+      "titles": [
+        "Deputy Speaker"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4285",
+      "phoneElectorate": "(02) 4926 1555",
+      "officeSuburb": "Newcastle",
+      "officePostcode": "2300",
+      "officeLines": [
+        "427 Hunter Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Claydon"
+    },
+    {
+      "id": "house:nicholls",
+      "chamber": "house",
+      "name": "Sam Birrell",
+      "firstName": "Sam",
+      "surname": "Birrell",
+      "honorific": "Mr",
+      "party": "Nationals",
+      "partyCode": "NATS",
+      "electorate": "Nicholls",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 2130",
+      "phoneElectorate": "(03) 5821 5371",
+      "officeSuburb": "Shepparton",
+      "officePostcode": "3630",
+      "officeLines": [
+        "426 Wyndham Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Birrell"
+    },
+    {
+      "id": "house:o-connor",
+      "chamber": "house",
+      "name": "Rick Wilson",
+      "firstName": "Rick",
+      "surname": "Wilson",
+      "honorific": "Mr",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "O'Connor",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4101",
+      "phoneElectorate": "(08) 9021 2044",
+      "officeSuburb": "Kalgoorlie",
+      "officePostcode": "6430",
+      "officeLines": [
+        "345 Hannan Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wilson"
+    },
+    {
+      "id": "house:oxley",
+      "chamber": "house",
+      "name": "Milton Dick",
+      "firstName": "Milton",
+      "surname": "Dick",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Oxley",
+      "state": "QLD",
+      "titles": [
+        "Speaker"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4000",
+      "phoneElectorate": "(07) 3879 6440",
+      "officeSuburb": "Richlands",
+      "officePostcode": "4077",
+      "officeLines": [
+        "Unit 3, 205 Government Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Dick"
+    },
+    {
+      "id": "house:page",
+      "chamber": "house",
+      "name": "Kevin Hogan",
+      "firstName": "Kevin",
+      "surname": "Hogan",
+      "honorific": "Hon",
+      "party": "Nationals",
+      "partyCode": "NATS",
+      "electorate": "Page",
+      "state": "NSW",
+      "titles": [
+        "Deputy Manager of Opposition Business"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4746",
+      "phoneElectorate": "(02) 6621 4044",
+      "officeSuburb": "Lismore",
+      "officePostcode": "2480",
+      "officeLines": [
+        "63 Molesworth Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hogan"
+    },
+    {
+      "id": "house:parkes",
+      "chamber": "house",
+      "name": "Jamie Chaffey",
+      "firstName": "Jamie",
+      "surname": "Chaffey",
+      "honorific": "Mr",
+      "party": "Nationals",
+      "partyCode": "NATS",
+      "electorate": "Parkes",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4538",
+      "phoneElectorate": "(08) 8087 7649",
+      "officeSuburb": "Broken Hill",
+      "officePostcode": "2880",
+      "officeLines": [
+        "Brookfield House 275 Argent St"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chaffey"
+    },
+    {
+      "id": "house:parramatta",
+      "chamber": "house",
+      "name": "Andrew Charlton",
+      "firstName": "Andrew",
+      "surname": "Charlton",
+      "honorific": "Hon Dr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Parramatta",
+      "state": "NSW",
+      "titles": [
+        "Cabinet Secretary",
+        "Assistant Minister for Science, Technology and the Digital Economy"
+      ],
+      "ministerialTitle": "Cabinet Secretary; Assistant Minister for Science, Technology and the Digital Economy",
+      "phoneParliament": "(02) 6277 4635",
+      "phoneElectorate": "(02) 9689 1455",
+      "officeSuburb": "Parramatta",
+      "officePostcode": "2150",
+      "officeLines": [
+        "Shops 1 & 2, 25 Smith St"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Charlton"
+    },
+    {
+      "id": "house:paterson",
+      "chamber": "house",
+      "name": "Meryl Swanson",
+      "firstName": "Meryl",
+      "surname": "Swanson",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Paterson",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4248",
+      "phoneElectorate": "(02) 4983 2401",
+      "officeSuburb": "Raymond Terrace",
+      "officePostcode": "2324",
+      "officeLines": [
+        "35 Sturgeon Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Swanson"
+    },
+    {
+      "id": "house:pearce",
+      "chamber": "house",
+      "name": "Tracey Roberts",
+      "firstName": "Tracey",
+      "surname": "Roberts",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Pearce",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4921",
+      "phoneElectorate": "(08) 6500 6499",
+      "officeSuburb": "Clarkson",
+      "officePostcode": "6030",
+      "officeLines": [
+        "Unit 2, 23 Ocean Keys Boulevard"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Roberts"
+    },
+    {
+      "id": "house:perth",
+      "chamber": "house",
+      "name": "Patrick Gorman",
+      "firstName": "Patrick",
+      "surname": "Gorman",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Perth",
+      "state": "WA",
+      "titles": [
+        "Assistant Minister to the Prime Minister",
+        "Assistant Minister for the Public Service",
+        "Assistant Minister for Employment and Workplace Relations"
+      ],
+      "ministerialTitle": "Assistant Minister to the Prime Minister; Assistant Minister for the Public Service; Assistant Minister for Employment and Workplace Relations",
+      "phoneParliament": "(02) 6277 4995",
+      "phoneElectorate": "(08) 9272 3411",
+      "officeSuburb": "Perth",
+      "officePostcode": "6000",
+      "officeLines": [
+        "Level 6",
+        "One The Esplanade"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gorman"
+    },
+    {
+      "id": "house:petrie",
+      "chamber": "house",
+      "name": "Emma Comer",
+      "firstName": "Emma",
+      "surname": "Comer",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Petrie",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4543",
+      "phoneElectorate": "(07) 3284 8008",
+      "officeSuburb": "Clontarf",
+      "officePostcode": "4019",
+      "officeLines": [
+        "40 Hornibrook Esplanade"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Comer"
+    },
+    {
+      "id": "house:rankin",
+      "chamber": "house",
+      "name": "Jim Chalmers",
+      "firstName": "Jim",
+      "surname": "Chalmers",
+      "honorific": "Hon Dr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Rankin",
+      "state": "QLD",
+      "titles": [
+        "Treasurer"
+      ],
+      "ministerialTitle": "Treasurer",
+      "phoneParliament": "(02) 6277 7340",
+      "phoneElectorate": "(07) 3299 5910",
+      "officeSuburb": "Logan Central",
+      "officePostcode": "4114",
+      "officeLines": [
+        "Unit 2A, Logan Central Plaza",
+        "38-74 Wembley Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chalmers"
+    },
+    {
+      "id": "house:reid",
+      "chamber": "house",
+      "name": "Sally Sitou",
+      "firstName": "Sally",
+      "surname": "Sitou",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Reid",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4942",
+      "phoneElectorate": "(02) 9715 7444",
+      "officeSuburb": "Burwood",
+      "officePostcode": "2134",
+      "officeLines": [
+        "72 Burwood Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sitou"
+    },
+    {
+      "id": "house:richmond",
+      "chamber": "house",
+      "name": "Justine Elliot",
+      "firstName": "Justine",
+      "surname": "Elliot",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Richmond",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4554",
+      "phoneElectorate": "(07) 5523 4371",
+      "officeSuburb": "Tweed Heads South",
+      "officePostcode": "2486",
+      "officeLines": [
+        "Suite 6, Hallmark Centre, 107-111 Minjungbal Drive"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Elliot"
+    },
+    {
+      "id": "house:riverina",
+      "chamber": "house",
+      "name": "Michael McCormack",
+      "firstName": "Michael",
+      "surname": "McCormack",
+      "honorific": "Hon",
+      "party": "Nationals",
+      "partyCode": "NATS",
+      "electorate": "Riverina",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4054",
+      "phoneElectorate": "(02) 6921 4600",
+      "officeSuburb": "Wagga Wagga",
+      "officePostcode": "2650",
+      "officeLines": [
+        "Suite 2",
+        "11-15 Fitzmaurice Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McCormack"
+    },
+    {
+      "id": "house:robertson",
+      "chamber": "house",
+      "name": "Gordon Reid",
+      "firstName": "Gordon",
+      "surname": "Reid",
+      "honorific": "Dr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Robertson",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4901",
+      "phoneElectorate": "(02) 4322 2400",
+      "officeSuburb": "West Gosford",
+      "officePostcode": "2250",
+      "officeLines": [
+        "Suite 3.04 & 3.05",
+        "Level 3, 69 Central Coast Highway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Reid"
+    },
+    {
+      "id": "house:ryan",
+      "chamber": "house",
+      "name": "Elizabeth Watson-Brown",
+      "firstName": "Elizabeth",
+      "surname": "Watson-Brown",
+      "honorific": "Ms",
+      "party": "Australian Greens",
+      "partyCode": "AG",
+      "electorate": "Ryan",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 2172",
+      "phoneElectorate": "(07) 3378 1599",
+      "officeSuburb": "Taringa",
+      "officePostcode": "4068",
+      "officeLines": [
+        "188 Moggill Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Watson-Brown"
+    },
+    {
+      "id": "house:scullin",
+      "chamber": "house",
+      "name": "Andrew Giles",
+      "firstName": "Andrew",
+      "surname": "Giles",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Scullin",
+      "state": "VIC",
+      "titles": [
+        "Minister for Skills and Training"
+      ],
+      "ministerialTitle": "Minister for Skills and Training",
+      "phoneParliament": "(02) 6277 7430",
+      "phoneElectorate": "(03) 9497 9783",
+      "officeSuburb": "Thomastown",
+      "officePostcode": "3074",
+      "officeLines": [
+        "187-189 High Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Giles"
+    },
+    {
+      "id": "house:shortland",
+      "chamber": "house",
+      "name": "Pat Conroy",
+      "firstName": "Pat",
+      "surname": "Conroy",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Shortland",
+      "state": "NSW",
+      "titles": [
+        "Minister for Pacific Island Affairs",
+        "Minister for Defence Industry"
+      ],
+      "ministerialTitle": "Minister for Pacific Island Affairs; Minister for Defence Industry",
+      "phoneParliament": "(02) 6277 7840",
+      "phoneElectorate": "(02) 4947 9546",
+      "officeSuburb": "Belmont",
+      "officePostcode": "2280",
+      "officeLines": [
+        "Suite 1A",
+        "571 Pacific Highway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Conroy"
+    },
+    {
+      "id": "house:solomon",
+      "chamber": "house",
+      "name": "Luke Gosling",
+      "firstName": "Luke",
+      "surname": "Gosling",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Solomon",
+      "state": "NT",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4933",
+      "phoneElectorate": "(08) 8928 0180",
+      "officeSuburb": "Casuarina",
+      "officePostcode": "0810",
+      "officeLines": [
+        "3/266 Trower Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gosling"
+    },
+    {
+      "id": "house:spence",
+      "chamber": "house",
+      "name": "Matt Burnell",
+      "firstName": "Matt",
+      "surname": "Burnell",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Spence",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4495",
+      "phoneElectorate": "(08) 8258 6300",
+      "officeSuburb": "Salisbury",
+      "officePostcode": "5108",
+      "officeLines": [
+        "Tenancy 8, 2-10 James Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Burnell"
+    },
+    {
+      "id": "house:sturt",
+      "chamber": "house",
+      "name": "Claire Clutterham",
+      "firstName": "Claire",
+      "surname": "Clutterham",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Sturt",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4540",
+      "phoneElectorate": "(08) 8431 2277",
+      "officeSuburb": "Norwood",
+      "officePostcode": "5067",
+      "officeLines": [
+        "Level 1, 85 The Parade"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Clutterham"
+    },
+    {
+      "id": "house:swan",
+      "chamber": "house",
+      "name": "Zaneta Mascarenhas",
+      "firstName": "Zaneta",
+      "surname": "Mascarenhas",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Swan",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4850",
+      "phoneElectorate": "(08) 9355 0099",
+      "officeSuburb": "Victoria Park",
+      "officePostcode": "6101",
+      "officeLines": [
+        "G3, 59 Albany Highway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Mascarenhas"
+    },
+    {
+      "id": "house:sydney",
+      "chamber": "house",
+      "name": "Tanya Plibersek",
+      "firstName": "Tanya",
+      "surname": "Plibersek",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Sydney",
+      "state": "NSW",
+      "titles": [
+        "Minister for Social Services"
+      ],
+      "ministerialTitle": "Minister for Social Services",
+      "phoneParliament": "(02) 6277 7560",
+      "phoneElectorate": "(02) 9379 0700",
+      "officeSuburb": "Sydney",
+      "officePostcode": "2016",
+      "officeLines": [
+        "1a Great Buckingham Street (cnr. Cleveland Street)",
+        "Redfern"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Plibersek"
+    },
+    {
+      "id": "house:tangney",
+      "chamber": "house",
+      "name": "Sam Lim",
+      "firstName": "Sam",
+      "surname": "Lim",
+      "honorific": "Mr",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Tangney",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4723",
+      "phoneElectorate": "(08) 9354 9633",
+      "officeSuburb": "Willetton",
+      "officePostcode": "6155",
+      "officeLines": [
+        "6 Aveley Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Lim"
+    },
+    {
+      "id": "house:wannon",
+      "chamber": "house",
+      "name": "Dan Tehan",
+      "firstName": "Dan",
+      "surname": "Tehan",
+      "honorific": "Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Wannon",
+      "state": "VIC",
+      "titles": [
+        "Manager of Opposition Business"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4426",
+      "phoneElectorate": "(03) 5572 1100",
+      "officeSuburb": "Hamilton",
+      "officePostcode": "3300",
+      "officeLines": [
+        "190 Gray Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Tehan"
+    },
+    {
+      "id": "house:warringah",
+      "chamber": "house",
+      "name": "Zali Steggall",
+      "firstName": "Zali",
+      "surname": "Steggall",
+      "honorific": "Ms",
+      "party": "Independent",
+      "partyCode": "IND",
+      "electorate": "Warringah",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 2551",
+      "phoneElectorate": "(02) 9977 6411",
+      "officeSuburb": "Manly",
+      "officePostcode": "2095",
+      "officeLines": [
+        "Units 4-6, 8-28 The Corso"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Steggall"
+    },
+    {
+      "id": "house:watson",
+      "chamber": "house",
+      "name": "Tony Burke",
+      "firstName": "Tony",
+      "surname": "Burke",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Watson",
+      "state": "NSW",
+      "titles": [
+        "Leader of the House",
+        "Minister for the Arts",
+        "Minister for Home Affairs",
+        "Minister for Cyber Security",
+        "Minister for Immigration and Citizenship"
+      ],
+      "ministerialTitle": "Minister for the Arts; Minister for Home Affairs; Minister for Cyber Security; Minister for Immigration and Citizenship",
+      "phoneParliament": "(02) 6277 7860",
+      "phoneElectorate": "(02) 9750 9088",
+      "officeSuburb": "Punchbowl",
+      "officePostcode": "2196",
+      "officeLines": [
+        "Shop 29, Broadway Plaza"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Burke",
+      "portfolio": [
+        "home-affairs",
+        "immigration-minister"
+      ]
+    },
+    {
+      "id": "house:wentworth",
+      "chamber": "house",
+      "name": "Allegra Spender",
+      "firstName": "Allegra",
+      "surname": "Spender",
+      "honorific": "Ms",
+      "party": "Independent",
+      "partyCode": "IND",
+      "electorate": "Wentworth",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4948",
+      "phoneElectorate": "(02) 9327 3988",
+      "officeSuburb": "Edgecliff",
+      "officePostcode": "2027",
+      "officeLines": [
+        "Suite 302 Level 3",
+        "179-191 New South Head Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Spender"
+    },
+    {
+      "id": "house:werriwa",
+      "chamber": "house",
+      "name": "Anne Stanley",
+      "firstName": "Anne",
+      "surname": "Stanley",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Werriwa",
+      "state": "NSW",
+      "titles": [
+        "Government Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 2103",
+      "phoneElectorate": "(02) 8783 0977",
+      "officeSuburb": "Hinchinbrook",
+      "officePostcode": "2168",
+      "officeLines": [
+        "Shop 7, 441 Hoxton Park Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Stanley"
+    },
+    {
+      "id": "house:whitlam",
+      "chamber": "house",
+      "name": "Carol Berry",
+      "firstName": "Carol",
+      "surname": "Berry",
+      "honorific": "Ms",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Whitlam",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4525",
+      "phoneElectorate": "(02) 4297 2285",
+      "officeSuburb": "Shellharbour",
+      "officePostcode": "2529",
+      "officeLines": [
+        "Shop 244, Stockland Shopping Centre"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Berry"
+    },
+    {
+      "id": "house:wide-bay",
+      "chamber": "house",
+      "name": "Llew O'Brien",
+      "firstName": "Llew",
+      "surname": "O'Brien",
+      "honorific": "Mr",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Wide Bay",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 2301",
+      "phoneElectorate": "(07) 4121 2936",
+      "officeSuburb": "Maryborough",
+      "officePostcode": "4650",
+      "officeLines": [
+        "319 Kent Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Brien"
+    },
+    {
+      "id": "house:wills",
+      "chamber": "house",
+      "name": "Peter Khalil",
+      "firstName": "Peter",
+      "surname": "Khalil",
+      "honorific": "Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Wills",
+      "state": "VIC",
+      "titles": [
+        "Assistant Minister for Defence"
+      ],
+      "ministerialTitle": "Assistant Minister for Defence",
+      "phoneParliament": "(02) 6277 4857",
+      "phoneElectorate": "(03) 9350 5777",
+      "officeSuburb": "Coburg",
+      "officePostcode": "3058",
+      "officeLines": [
+        "466 - 468 Sydney Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Khalil"
+    },
+    {
+      "id": "house:wright",
+      "chamber": "house",
+      "name": "Scott Buchholz",
+      "firstName": "Scott",
+      "surname": "Buchholz",
+      "honorific": "Hon",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Wright",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "(02) 6277 4144",
+      "phoneElectorate": "(07) 5541 0150",
+      "officeSuburb": "Beaudesert",
+      "officePostcode": "4285",
+      "officeLines": [
+        "21 William Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Buchholz"
+    }
+  ],
+  "senate": [
+    {
+      "id": "senate:act:gallagher-katy",
+      "chamber": "senate",
+      "name": "Katy Gallagher",
+      "firstName": "Katy",
+      "surname": "Gallagher",
+      "honorific": "Senator the Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Australian Capital Territory",
+      "state": "ACT",
+      "titles": [
+        "Minister for the Public Service",
+        "Minister for Finance",
+        "Minister for Women",
+        "Minister for Government Services (Vice-President of the Executive Council and Manager of Government Business in the Senate)"
+      ],
+      "ministerialTitle": "Minister for the Public Service; Minister for Finance; Minister for Women; Minister for Government Services (Vice-President of the Executive Council and Manager of Government Business in the Senate)",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 6230 0411",
+      "officeSuburb": "Phillip",
+      "officePostcode": "2606",
+      "officeLines": [
+        "Unit 3, 40 Corinna Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gallagher"
+    },
+    {
+      "id": "senate:act:pocock-david",
+      "chamber": "senate",
+      "name": "David Pocock",
+      "firstName": "David",
+      "surname": "Pocock",
+      "honorific": "Senator",
+      "party": "Independent",
+      "partyCode": "IND",
+      "electorate": "Australian Capital Territory",
+      "state": "ACT",
+      "titles": [
+        "Independent ACT Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 6247 6444",
+      "officeSuburb": "Gungahlin",
+      "officePostcode": "2912",
+      "officeLines": [
+        "Shop 1",
+        "25 Ernest Cavanagh Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Pocock"
+    },
+    {
+      "id": "senate:nsw:ayres-tim",
+      "chamber": "senate",
+      "name": "Tim Ayres",
+      "firstName": "Tim",
+      "surname": "Ayres",
+      "honorific": "Senator the Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "New South Wales",
+      "state": "NSW",
+      "titles": [
+        "Minister for Industry and Innovation",
+        "Minister for Science"
+      ],
+      "ministerialTitle": "Minister for Industry and Innovation; Minister for Science",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 9159 9330",
+      "officeSuburb": "Redfern",
+      "officePostcode": "2016",
+      "officeLines": [
+        "Level 3",
+        "1A Lawson Square"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ayres"
+    },
+    {
+      "id": "senate:nsw:bell-sean",
+      "chamber": "senate",
+      "name": "Sean Bell",
+      "firstName": "Sean",
+      "surname": "Bell",
+      "honorific": "Senator",
+      "party": "One Nation",
+      "partyCode": "ON",
+      "electorate": "New South Wales",
+      "state": "NSW",
+      "titles": [
+        "One Nation Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 8289 9160",
+      "officeSuburb": "Sydney",
+      "officePostcode": "2000",
+      "officeLines": [
+        "Commonwealth Parliamentary Offices, Suite 8, Level 21",
+        "1 Bligh Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bell"
+    },
+    {
+      "id": "senate:nsw:bragg-andrew",
+      "chamber": "senate",
+      "name": "Andrew Bragg",
+      "firstName": "Andrew",
+      "surname": "Bragg",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "New South Wales",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 9159 9320",
+      "officeSuburb": "Paddington",
+      "officePostcode": "2021",
+      "officeLines": [
+        "Shop 1",
+        "392 Oxford Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bragg"
+    },
+    {
+      "id": "senate:nsw:cadell-ross",
+      "chamber": "senate",
+      "name": "Ross Cadell",
+      "firstName": "Ross",
+      "surname": "Cadell",
+      "honorific": "Senator",
+      "party": "Nationals",
+      "partyCode": "NATS",
+      "electorate": "New South Wales",
+      "state": "NSW",
+      "titles": [
+        "Nationals Whip in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 6492 0586",
+      "officeSuburb": "Newcastle",
+      "officePostcode": "2300",
+      "officeLines": [
+        "Ground Floor",
+        "28-30 Bolton Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cadell"
+    },
+    {
+      "id": "senate:nsw:collins-jessica",
+      "chamber": "senate",
+      "name": "Jessica Collins",
+      "firstName": "Jessica",
+      "surname": "Collins",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "New South Wales",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 9159 9325",
+      "officeSuburb": "Sydney",
+      "officePostcode": "2000",
+      "officeLines": [
+        "Commonwealth Parliamentary Offices, Suite 14.02, Level 14",
+        "25 Bligh Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Collins"
+    },
+    {
+      "id": "senate:nsw:faruqi-mehreen",
+      "chamber": "senate",
+      "name": "Mehreen Faruqi",
+      "firstName": "Mehreen",
+      "surname": "Faruqi",
+      "honorific": "Senator",
+      "party": "Australian Greens",
+      "partyCode": "AG",
+      "electorate": "New South Wales",
+      "state": "NSW",
+      "titles": [
+        "Deputy Leader of the Australian Greens"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 9211 1500",
+      "officeSuburb": "Surry Hills",
+      "officePostcode": "2010",
+      "officeLines": [
+        "72 Campbell Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Faruqi"
+    },
+    {
+      "id": "senate:nsw:kovacic-maria",
+      "chamber": "senate",
+      "name": "Maria Kovacic",
+      "firstName": "Maria",
+      "surname": "Kovacic",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "New South Wales",
+      "state": "NSW",
+      "titles": [
+        "Opposition Whip in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 9353 0585",
+      "officeSuburb": "Macquarie Park",
+      "officePostcode": "2113",
+      "officeLines": [
+        "Suite 2, Level 5",
+        "3 Thomas Holt Drive"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Kovacic"
+    },
+    {
+      "id": "senate:nsw:mcallister-jenny",
+      "chamber": "senate",
+      "name": "Jenny McAllister",
+      "firstName": "Jenny",
+      "surname": "McAllister",
+      "honorific": "Senator the Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "New South Wales",
+      "state": "NSW",
+      "titles": [
+        "Minister for the National Disability Insurance Scheme"
+      ],
+      "ministerialTitle": "Minister for the National Disability Insurance Scheme",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 9719 8100",
+      "officeSuburb": "Surry Hills",
+      "officePostcode": "2010",
+      "officeLines": [
+        "Suite 501, Level 5",
+        "54-66 Wentworth Avenue"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McAllister"
+    },
+    {
+      "id": "senate:nsw:o-neill-deborah",
+      "chamber": "senate",
+      "name": "Deborah O'Neill",
+      "firstName": "Deborah",
+      "surname": "O'Neill",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "New South Wales",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 4367 4565",
+      "officeSuburb": "Erina",
+      "officePostcode": "2250",
+      "officeLines": [
+        "Suite 3.12, The Platinum Building",
+        "4 Ilya Avenue"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Neill"
+    },
+    {
+      "id": "senate:nsw:sharma-dave",
+      "chamber": "senate",
+      "name": "Dave Sharma",
+      "firstName": "Dave",
+      "surname": "Sharma",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "New South Wales",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 8289 9800",
+      "officeSuburb": "Sydney",
+      "officePostcode": "2000",
+      "officeLines": [
+        "Commonwealth Parliamentary Offices, Suite 10, Level 21",
+        "1 Bligh Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sharma"
+    },
+    {
+      "id": "senate:nsw:sheldon-tony",
+      "chamber": "senate",
+      "name": "Tony Sheldon",
+      "firstName": "Tony",
+      "surname": "Sheldon",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "New South Wales",
+      "state": "NSW",
+      "titles": [
+        "Chief Government Whip in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 9719 1078",
+      "officeSuburb": "Sydney",
+      "officePostcode": "2000",
+      "officeLines": [
+        "Suite 11.02, Level 11",
+        "66 Goulburn Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sheldon"
+    },
+    {
+      "id": "senate:nsw:shoebridge-david",
+      "chamber": "senate",
+      "name": "David Shoebridge",
+      "firstName": "David",
+      "surname": "Shoebridge",
+      "honorific": "Senator",
+      "party": "Australian Greens",
+      "partyCode": "AG",
+      "electorate": "New South Wales",
+      "state": "NSW",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 8073 7400",
+      "officeSuburb": "Redfern",
+      "officePostcode": "2016",
+      "officeLines": [
+        "Suite 201, Level 2",
+        "1A Lawson Square"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Shoebridge"
+    },
+    {
+      "id": "senate:nt:mccarthy-malarndirri",
+      "chamber": "senate",
+      "name": "Malarndirri McCarthy",
+      "firstName": "Malarndirri",
+      "surname": "McCarthy",
+      "honorific": "Senator the Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Northern Territory",
+      "state": "NT",
+      "titles": [
+        "Minister for Indigenous Australians"
+      ],
+      "ministerialTitle": "Minister for Indigenous Australians",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8941 0003",
+      "officeSuburb": "Darwin",
+      "officePostcode": "O800",
+      "officeLines": [
+        "38 Mitchell Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McCarthy"
+    },
+    {
+      "id": "senate:nt:nampijinpa-price-jacinta",
+      "chamber": "senate",
+      "name": "Jacinta Nampijinpa Price",
+      "firstName": "Jacinta",
+      "surname": "Nampijinpa Price",
+      "honorific": "Senator",
+      "party": "Country Liberal Party",
+      "partyCode": "CLP",
+      "electorate": "Northern Territory",
+      "state": "NT",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8948 3555",
+      "officeSuburb": "",
+      "officePostcode": "",
+      "officeLines": [],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Nampijinpa%20Price"
+    },
+    {
+      "id": "senate:qld:allman-payne-penny",
+      "chamber": "senate",
+      "name": "Penny Allman-Payne",
+      "firstName": "Penny",
+      "surname": "Allman-Payne",
+      "honorific": "Senator",
+      "party": "Australian Greens",
+      "partyCode": "AG",
+      "electorate": "Queensland",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(07) 4972 0380",
+      "officeSuburb": "Gladstone",
+      "officePostcode": "4680",
+      "officeLines": [
+        "20-22 Herbert Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Allman-Payne"
+    },
+    {
+      "id": "senate:qld:canavan-matthew",
+      "chamber": "senate",
+      "name": "Matthew Canavan",
+      "firstName": "Matthew",
+      "surname": "Canavan",
+      "honorific": "Senator the Hon",
+      "party": "Nationals",
+      "partyCode": "NATS",
+      "electorate": "Queensland",
+      "state": "QLD",
+      "titles": [
+        "Leader of the Nationals"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(07) 4927 2003",
+      "officeSuburb": "Rockhampton",
+      "officePostcode": "4700",
+      "officeLines": [
+        "Ground Floor",
+        "34 East Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Canavan"
+    },
+    {
+      "id": "senate:qld:chisholm-anthony",
+      "chamber": "senate",
+      "name": "Anthony Chisholm",
+      "firstName": "Anthony",
+      "surname": "Chisholm",
+      "honorific": "Senator the Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Queensland",
+      "state": "QLD",
+      "titles": [
+        "Assistant Minister for Regional Development",
+        "Assistant Minister for Agriculture, Fisheries and Forestry",
+        "Assistant Minister for Resources (Deputy Manager of Government Business in the Senate)"
+      ],
+      "ministerialTitle": "Assistant Minister for Regional Development; Assistant Minister for Agriculture, Fisheries and Forestry; Assistant Minister for Resources (Deputy Manager of Government Business in the Senate)",
+      "phoneParliament": "",
+      "phoneElectorate": "(07) 3881 3710",
+      "officeSuburb": "North Lakes",
+      "officePostcode": "4509",
+      "officeLines": [
+        "Level 1",
+        "53 Endeavour Boulevard"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chisholm"
+    },
+    {
+      "id": "senate:qld:green-nita",
+      "chamber": "senate",
+      "name": "Nita Green",
+      "firstName": "Nita",
+      "surname": "Green",
+      "honorific": "Senator the Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Queensland",
+      "state": "QLD",
+      "titles": [
+        "Assistant Minister for Tourism",
+        "Assistant Minister for Pacific Island Affairs",
+        "Assistant Minister for Northern Australia"
+      ],
+      "ministerialTitle": "Assistant Minister for Tourism; Assistant Minister for Pacific Island Affairs; Assistant Minister for Northern Australia",
+      "phoneParliament": "",
+      "phoneElectorate": "(07) 4031 3498",
+      "officeSuburb": "Cairns",
+      "officePostcode": "4870",
+      "officeLines": [
+        "141 - 143 Abbott Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Green"
+    },
+    {
+      "id": "senate:qld:hanson-pauline",
+      "chamber": "senate",
+      "name": "Pauline Hanson",
+      "firstName": "Pauline",
+      "surname": "Hanson",
+      "honorific": "Senator",
+      "party": "One Nation",
+      "partyCode": "ON",
+      "electorate": "Queensland",
+      "state": "QLD",
+      "titles": [
+        "Leader of One Nation"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(07) 3221 7644",
+      "officeSuburb": "Brisbane",
+      "officePostcode": "4000",
+      "officeLines": [
+        "Suite 3, Level 36, Waterfront Place",
+        "1 Eagle Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hanson"
+    },
+    {
+      "id": "senate:qld:mcdonald-susan",
+      "chamber": "senate",
+      "name": "Susan McDonald",
+      "firstName": "Susan",
+      "surname": "McDonald",
+      "honorific": "Senator",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Queensland",
+      "state": "QLD",
+      "titles": [
+        "Deputy Leader of the Nationals in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(07) 4771 3066",
+      "officeSuburb": "Townsville",
+      "officePostcode": "4810",
+      "officeLines": [
+        "Suite 3",
+        "520 Flinders Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McDonald"
+    },
+    {
+      "id": "senate:qld:mcgrath-james",
+      "chamber": "senate",
+      "name": "James McGrath",
+      "firstName": "James",
+      "surname": "McGrath",
+      "honorific": "Senator the Hon",
+      "party": "Liberal National Party",
+      "partyCode": "LNP",
+      "electorate": "Queensland",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(07) 5441 1800",
+      "officeSuburb": "Nambour",
+      "officePostcode": "4560",
+      "officeLines": [
+        "Tenancy A",
+        "2-4 Mitchell Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McGrath"
+    },
+    {
+      "id": "senate:qld:mulholland-corinne",
+      "chamber": "senate",
+      "name": "Corinne Mulholland",
+      "firstName": "Corinne",
+      "surname": "Mulholland",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Queensland",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(07) 3252 7101",
+      "officeSuburb": "Chermside",
+      "officePostcode": "4032",
+      "officeLines": [
+        "Level 1",
+        "90 Kittyhawk Drive"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Mulholland"
+    },
+    {
+      "id": "senate:qld:roberts-malcolm",
+      "chamber": "senate",
+      "name": "Malcolm Roberts",
+      "firstName": "Malcolm",
+      "surname": "Roberts",
+      "honorific": "Senator",
+      "party": "One Nation",
+      "partyCode": "ON",
+      "electorate": "Queensland",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(07) 3221 9099",
+      "officeSuburb": "Brisbane",
+      "officePostcode": "4000",
+      "officeLines": [
+        "Commonwealth Parliament Offices Suite 2, Level 36 Waterfront Place",
+        "1 Eagle Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Roberts"
+    },
+    {
+      "id": "senate:qld:scarr-paul",
+      "chamber": "senate",
+      "name": "Paul Scarr",
+      "firstName": "Paul",
+      "surname": "Scarr",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Queensland",
+      "state": "QLD",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(07) 3186 9350",
+      "officeSuburb": "Springfield Central",
+      "officePostcode": "4300",
+      "officeLines": [
+        "Tenancy 3, Level 6, Springfield Tower",
+        "145 Sinnathamby Boulevard"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Scarr"
+    },
+    {
+      "id": "senate:qld:waters-larissa",
+      "chamber": "senate",
+      "name": "Larissa Waters",
+      "firstName": "Larissa",
+      "surname": "Waters",
+      "honorific": "Senator",
+      "party": "Australian Greens",
+      "partyCode": "AG",
+      "electorate": "Queensland",
+      "state": "QLD",
+      "titles": [
+        "Leader of the Australian Greens"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(07) 3367 0566",
+      "officeSuburb": "Paddington",
+      "officePostcode": "4064",
+      "officeLines": [
+        "Level 2",
+        "251 Given Terrace"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Waters"
+    },
+    {
+      "id": "senate:qld:watt-murray",
+      "chamber": "senate",
+      "name": "Murray Watt",
+      "firstName": "Murray",
+      "surname": "Watt",
+      "honorific": "Senator the Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Queensland",
+      "state": "QLD",
+      "titles": [
+        "Minister for the Environment and Water"
+      ],
+      "ministerialTitle": "Minister for the Environment and Water",
+      "phoneParliament": "",
+      "phoneElectorate": "(07) 5531 1033",
+      "officeSuburb": "Brisbane",
+      "officePostcode": "4000",
+      "officeLines": [
+        "Suite 29.07, Level 29",
+        "1 Eagle Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Watt"
+    },
+    {
+      "id": "senate:sa:antic-alex",
+      "chamber": "senate",
+      "name": "Alex Antic",
+      "firstName": "Alex",
+      "surname": "Antic",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "South Australia",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8205 1080",
+      "officeSuburb": "Blair Athol",
+      "officePostcode": "5084",
+      "officeLines": [
+        "398 Main North Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Antic"
+    },
+    {
+      "id": "senate:sa:blyth-leah",
+      "chamber": "senate",
+      "name": "Leah Blyth",
+      "firstName": "Leah",
+      "surname": "Blyth",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "South Australia",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8354 1644",
+      "officeSuburb": "Hilton",
+      "officePostcode": "5033",
+      "officeLines": [
+        "107 Sir Donald Bradman Drive"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Blyth"
+    },
+    {
+      "id": "senate:sa:farrell-don",
+      "chamber": "senate",
+      "name": "Don Farrell",
+      "firstName": "Don",
+      "surname": "Farrell",
+      "honorific": "Senator the Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "South Australia",
+      "state": "SA",
+      "titles": [
+        "Minister for Trade and Tourism",
+        "Special Minister of State (Deputy Leader of the Government in the Senate)"
+      ],
+      "ministerialTitle": "Minister for Trade and Tourism; Special Minister of State (Deputy Leader of the Government in the Senate)",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8231 8400",
+      "officeSuburb": "Adelaide",
+      "officePostcode": "5000",
+      "officeLines": [
+        "Level 5",
+        "19 Gilles Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Farrell"
+    },
+    {
+      "id": "senate:sa:grogan-karen",
+      "chamber": "senate",
+      "name": "Karen Grogan",
+      "firstName": "Karen",
+      "surname": "Grogan",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "South Australia",
+      "state": "SA",
+      "titles": [
+        "Deputy Government Whip in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8269 6022",
+      "officeSuburb": "Prospect",
+      "officePostcode": "5082",
+      "officeLines": [
+        "265 Churchill Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Grogan"
+    },
+    {
+      "id": "senate:sa:hanson-young-sarah",
+      "chamber": "senate",
+      "name": "Sarah Hanson-Young",
+      "firstName": "Sarah",
+      "surname": "Hanson-Young",
+      "honorific": "Senator",
+      "party": "Australian Greens",
+      "partyCode": "AG",
+      "electorate": "South Australia",
+      "state": "SA",
+      "titles": [
+        "Manager of Australian Greens Business in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8227 0425",
+      "officeSuburb": "Adelaide",
+      "officePostcode": "5000",
+      "officeLines": [
+        "Level 7, 147  Pirie Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hanson-Young"
+    },
+    {
+      "id": "senate:sa:liddle-kerrynne",
+      "chamber": "senate",
+      "name": "Kerrynne Liddle",
+      "firstName": "Kerrynne",
+      "surname": "Liddle",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "South Australia",
+      "state": "SA",
+      "titles": [
+        "Deputy Opposition Whip in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8232 1144",
+      "officeSuburb": "Adelaide",
+      "officePostcode": "5000",
+      "officeLines": [
+        "Level 2",
+        "31 Ebenezer Place"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Liddle"
+    },
+    {
+      "id": "senate:sa:mclachlan-andrew",
+      "chamber": "senate",
+      "name": "Andrew McLachlan",
+      "firstName": "Andrew",
+      "surname": "McLachlan",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "South Australia",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8362 8600",
+      "officeSuburb": "Kent Town",
+      "officePostcode": "5067",
+      "officeLines": [
+        "Level 1, 97 King William Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McLachlan"
+    },
+    {
+      "id": "senate:sa:pocock-barbara",
+      "chamber": "senate",
+      "name": "Barbara Pocock",
+      "firstName": "Barbara",
+      "surname": "Pocock",
+      "honorific": "Senator",
+      "party": "Australian Greens",
+      "partyCode": "AG",
+      "electorate": "South Australia",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8272 7575",
+      "officeSuburb": "Goodwood",
+      "officePostcode": "5034",
+      "officeLines": [
+        "Level 1",
+        "110 King William Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Pocock"
+    },
+    {
+      "id": "senate:sa:ruston-anne",
+      "chamber": "senate",
+      "name": "Anne Ruston",
+      "firstName": "Anne",
+      "surname": "Ruston",
+      "honorific": "Senator the Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "South Australia",
+      "state": "SA",
+      "titles": [
+        "Deputy Leader of the Opposition in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8586 6600",
+      "officeSuburb": "Renmark",
+      "officePostcode": "5341",
+      "officeLines": [
+        "9 Renmark Avenue"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ruston"
+    },
+    {
+      "id": "senate:sa:smith-marielle",
+      "chamber": "senate",
+      "name": "Marielle Smith",
+      "firstName": "Marielle",
+      "surname": "Smith",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "South Australia",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8340 0444",
+      "officeSuburb": "Bowden",
+      "officePostcode": "5007",
+      "officeLines": [
+        "T1 10 Park Terrace"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Smith"
+    },
+    {
+      "id": "senate:sa:walker-charlotte",
+      "chamber": "senate",
+      "name": "Charlotte Walker",
+      "firstName": "Charlotte",
+      "surname": "Walker",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "South Australia",
+      "state": "SA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8205 1040",
+      "officeSuburb": "Adelaide",
+      "officePostcode": "5000",
+      "officeLines": [
+        "Commonwealth Parliament Offices",
+        "Level 27, Festival Tower, Station Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Walker"
+    },
+    {
+      "id": "senate:sa:wong-penny",
+      "chamber": "senate",
+      "name": "Penny Wong",
+      "firstName": "Penny",
+      "surname": "Wong",
+      "honorific": "Senator the Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "South Australia",
+      "state": "SA",
+      "titles": [
+        "Minister for Foreign Affairs (Leader of the Government in the Senate)"
+      ],
+      "ministerialTitle": "Minister for Foreign Affairs (Leader of the Government in the Senate)",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 8212 8272",
+      "officeSuburb": "Adelaide",
+      "officePostcode": "5000",
+      "officeLines": [
+        "Level 4",
+        "19 Gouger Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Wong"
+    },
+    {
+      "id": "senate:tas:bleyer-vanessa",
+      "chamber": "senate",
+      "name": "Vanessa Bleyer",
+      "firstName": "Vanessa",
+      "surname": "Bleyer",
+      "honorific": "Senator",
+      "party": "Australian Greens",
+      "partyCode": "AG",
+      "electorate": "Tasmania",
+      "state": "TAS",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 6331 0033",
+      "officeSuburb": "Launceston",
+      "officePostcode": "7250",
+      "officeLines": [
+        "37 George Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Bleyer"
+    },
+    {
+      "id": "senate:tas:brown-carol",
+      "chamber": "senate",
+      "name": "Carol Brown",
+      "firstName": "Carol",
+      "surname": "Brown",
+      "honorific": "Senator the Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Tasmania",
+      "state": "TAS",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 6231 0099",
+      "officeSuburb": "Hobart",
+      "officePostcode": "7000",
+      "officeLines": [
+        "1st Floor",
+        "136 Davey Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Brown"
+    },
+    {
+      "id": "senate:tas:chandler-claire",
+      "chamber": "senate",
+      "name": "Claire Chandler",
+      "firstName": "Claire",
+      "surname": "Chandler",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Tasmania",
+      "state": "TAS",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 6260 2018",
+      "officeSuburb": "Richmond",
+      "officePostcode": "7025",
+      "officeLines": [
+        "42 Bridge Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Chandler"
+    },
+    {
+      "id": "senate:tas:colbeck-richard",
+      "chamber": "senate",
+      "name": "Richard Colbeck",
+      "firstName": "Richard",
+      "surname": "Colbeck",
+      "honorific": "Senator the Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Tasmania",
+      "state": "TAS",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 6424 5960",
+      "officeSuburb": "Devonport",
+      "officePostcode": "7310",
+      "officeLines": [
+        "5-7 Best Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Colbeck"
+    },
+    {
+      "id": "senate:tas:dolega-josh",
+      "chamber": "senate",
+      "name": "Josh Dolega",
+      "firstName": "Josh",
+      "surname": "Dolega",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Tasmania",
+      "state": "TAS",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 6423 1933",
+      "officeSuburb": "Devonport",
+      "officePostcode": "7310",
+      "officeLines": [
+        "1-3 Rooke Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Dolega"
+    },
+    {
+      "id": "senate:tas:dowling-richard",
+      "chamber": "senate",
+      "name": "Richard Dowling",
+      "firstName": "Richard",
+      "surname": "Dowling",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Tasmania",
+      "state": "TAS",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 6229 4444",
+      "officeSuburb": "Kingston",
+      "officePostcode": "7050",
+      "officeLines": [
+        "Shop 3, Kingston Plaza",
+        "20 Channel Highway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Dowling"
+    },
+    {
+      "id": "senate:tas:duniam-jonathon",
+      "chamber": "senate",
+      "name": "Jonathon Duniam",
+      "firstName": "Jonathon",
+      "surname": "Duniam",
+      "honorific": "Senator the Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Tasmania",
+      "state": "TAS",
+      "titles": [
+        "Manager of Opposition Business in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 6231 2444",
+      "officeSuburb": "Hobart",
+      "officePostcode": "7000",
+      "officeLines": [
+        "85 Macquarie Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Duniam"
+    },
+    {
+      "id": "senate:tas:gatenby-chris",
+      "chamber": "senate",
+      "name": "Chris Gatenby",
+      "firstName": "Chris",
+      "surname": "Gatenby",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Tasmania",
+      "state": "TAS",
+      "titles": [
+        "Deputy Opposition Whip in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 6331 8501",
+      "officeSuburb": "Launceston",
+      "officePostcode": "7250",
+      "officeLines": [
+        "46-54 Cameron Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Gatenby"
+    },
+    {
+      "id": "senate:tas:lambie-jacqui",
+      "chamber": "senate",
+      "name": "Jacqui Lambie",
+      "firstName": "Jacqui",
+      "surname": "Lambie",
+      "honorific": "Senator",
+      "party": "Jacqui Lambie Network",
+      "partyCode": "JLN",
+      "electorate": "Tasmania",
+      "state": "TAS",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 6431 3112",
+      "officeSuburb": "Burnie",
+      "officePostcode": "7320",
+      "officeLines": [
+        "Shop 4",
+        "22 Mount Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Lambie"
+    },
+    {
+      "id": "senate:tas:mckim-nick",
+      "chamber": "senate",
+      "name": "Nick McKim",
+      "firstName": "Nick",
+      "surname": "McKim",
+      "honorific": "Senator",
+      "party": "Australian Greens",
+      "partyCode": "AG",
+      "electorate": "Tasmania",
+      "state": "TAS",
+      "titles": [
+        "Australian Greens Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 6224 8899",
+      "officeSuburb": "Hobart",
+      "officePostcode": "7000",
+      "officeLines": [
+        "149B Macquarie Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McKim"
+    },
+    {
+      "id": "senate:tas:polley-helen",
+      "chamber": "senate",
+      "name": "Helen Polley",
+      "firstName": "Helen",
+      "surname": "Polley",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Tasmania",
+      "state": "TAS",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 6331 2599",
+      "officeSuburb": "Launceston",
+      "officePostcode": "7250",
+      "officeLines": [
+        "'The Charles', Suite 101",
+        "287 Charles Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Polley"
+    },
+    {
+      "id": "senate:tas:tyrrell-tammy",
+      "chamber": "senate",
+      "name": "Tammy Tyrrell",
+      "firstName": "Tammy",
+      "surname": "Tyrrell",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Tasmania",
+      "state": "TAS",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 9070 1910",
+      "officeSuburb": "Launceston",
+      "officePostcode": "7250",
+      "officeLines": [
+        "Shop 2",
+        "111-113 St John Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Tyrrell"
+    },
+    {
+      "id": "senate:vic:ananda-rajah-michelle",
+      "chamber": "senate",
+      "name": "Michelle Ananda-Rajah",
+      "firstName": "Michelle",
+      "surname": "Ananda-Rajah",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Victoria",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 9822 4422",
+      "officeSuburb": "Malvern",
+      "officePostcode": "3144",
+      "officeLines": [
+        "Suite 1.03",
+        "261-271 Wattletree Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ananda-Rajah"
+    },
+    {
+      "id": "senate:vic:babet-ralph",
+      "chamber": "senate",
+      "name": "Ralph Babet",
+      "firstName": "Ralph",
+      "surname": "Babet",
+      "honorific": "Senator",
+      "party": "United Australia Party",
+      "partyCode": "UAP",
+      "electorate": "Victoria",
+      "state": "VIC",
+      "titles": [
+        "United Australia Party Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 9070 1900",
+      "officeSuburb": "Narre Warren",
+      "officePostcode": "3805",
+      "officeLines": [
+        "Suite 2",
+        "77 Victor Crescent"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Babet"
+    },
+    {
+      "id": "senate:vic:ciccone-raff",
+      "chamber": "senate",
+      "name": "Raff Ciccone",
+      "firstName": "Raff",
+      "surname": "Ciccone",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Victoria",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 9894 2098",
+      "officeSuburb": "Melbourne",
+      "officePostcode": "3000",
+      "officeLines": [
+        "Suite 12.01, Level 12",
+        "1 Collins Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ciccone"
+    },
+    {
+      "id": "senate:vic:darmanin-lisa",
+      "chamber": "senate",
+      "name": "Lisa Darmanin",
+      "firstName": "Lisa",
+      "surname": "Darmanin",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Victoria",
+      "state": "VIC",
+      "titles": [
+        "Deputy Government Whip in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 9232 8260",
+      "officeSuburb": "East Melbourne",
+      "officePostcode": "3002",
+      "officeLines": [
+        "Level 3 North",
+        "4 Treasury Place"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Darmanin"
+    },
+    {
+      "id": "senate:vic:henderson-sarah",
+      "chamber": "senate",
+      "name": "Sarah Henderson",
+      "firstName": "Sarah",
+      "surname": "Henderson",
+      "honorific": "Senator the Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Victoria",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 5221 5900",
+      "officeSuburb": "Geelong",
+      "officePostcode": "3220",
+      "officeLines": [
+        "231-233 Moorabool Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Henderson"
+    },
+    {
+      "id": "senate:vic:hodgins-may-steph",
+      "chamber": "senate",
+      "name": "Steph Hodgins-May",
+      "firstName": "Steph",
+      "surname": "Hodgins-May",
+      "honorific": "Senator",
+      "party": "Australian Greens",
+      "partyCode": "AG",
+      "electorate": "Victoria",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 9381 1446",
+      "officeSuburb": "Windsor",
+      "officePostcode": "3181",
+      "officeLines": [
+        "1 Eastbourne Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hodgins-May"
+    },
+    {
+      "id": "senate:vic:hume-jane",
+      "chamber": "senate",
+      "name": "Jane Hume",
+      "firstName": "Jane",
+      "surname": "Hume",
+      "honorific": "Senator the Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Victoria",
+      "state": "VIC",
+      "titles": [
+        "Deputy Leader of the Opposition"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 9428 1773",
+      "officeSuburb": "Richmond",
+      "officePostcode": "3121",
+      "officeLines": [
+        "223 Bridge Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Hume"
+    },
+    {
+      "id": "senate:vic:mckenzie-bridget",
+      "chamber": "senate",
+      "name": "Bridget McKenzie",
+      "firstName": "Bridget",
+      "surname": "McKenzie",
+      "honorific": "Senator the Hon",
+      "party": "Nationals",
+      "partyCode": "NATS",
+      "electorate": "Victoria",
+      "state": "VIC",
+      "titles": [
+        "Leader of the Nationals in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(02) 6024 2560",
+      "officeSuburb": "Wodonga",
+      "officePostcode": "3690",
+      "officeLines": [
+        "172 High Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=McKenzie"
+    },
+    {
+      "id": "senate:vic:paterson-james",
+      "chamber": "senate",
+      "name": "James Paterson",
+      "firstName": "James",
+      "surname": "Paterson",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Victoria",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 9690 2201",
+      "officeSuburb": "South Melbourne",
+      "officePostcode": "3205",
+      "officeLines": [
+        "Ground floor, 63 York Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Paterson"
+    },
+    {
+      "id": "senate:vic:stewart-jana",
+      "chamber": "senate",
+      "name": "Jana Stewart",
+      "firstName": "Jana",
+      "surname": "Stewart",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Victoria",
+      "state": "VIC",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 9070 1920",
+      "officeSuburb": "Reservoir",
+      "officePostcode": "3073",
+      "officeLines": [
+        "293 Spring Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Stewart"
+    },
+    {
+      "id": "senate:vic:thorpe-lidia",
+      "chamber": "senate",
+      "name": "Lidia Thorpe",
+      "firstName": "Lidia",
+      "surname": "Thorpe",
+      "honorific": "Senator",
+      "party": "Independent",
+      "partyCode": "IND",
+      "electorate": "Victoria",
+      "state": "VIC",
+      "titles": [
+        "Independent VIC Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 9070 1950",
+      "officeSuburb": "Collingwood",
+      "officePostcode": "3066",
+      "officeLines": [
+        "474 Smith Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Thorpe"
+    },
+    {
+      "id": "senate:vic:walsh-jess",
+      "chamber": "senate",
+      "name": "Jess Walsh",
+      "firstName": "Jess",
+      "surname": "Walsh",
+      "honorific": "Senator the Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Victoria",
+      "state": "VIC",
+      "titles": [
+        "Minister for Early Childhood Education",
+        "Minister for Youth"
+      ],
+      "ministerialTitle": "Minister for Early Childhood Education; Minister for Youth",
+      "phoneParliament": "",
+      "phoneElectorate": "(03) 9381 5448",
+      "officeSuburb": "Brunswick East",
+      "officePostcode": "3057",
+      "officeLines": [
+        "240-250 Lygon Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Walsh"
+    },
+    {
+      "id": "senate:wa:brockman-slade",
+      "chamber": "senate",
+      "name": "Slade Brockman",
+      "firstName": "Slade",
+      "surname": "Brockman",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Western Australia",
+      "state": "WA",
+      "titles": [
+        "Deputy President and Chair of Committees"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 6245 3305",
+      "officeSuburb": "South Perth",
+      "officePostcode": "6151",
+      "officeLines": [
+        "Unit 4,",
+        "1 Harper Terrace"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Brockman"
+    },
+    {
+      "id": "senate:wa:cash-michaelia",
+      "chamber": "senate",
+      "name": "Michaelia Cash",
+      "firstName": "Michaelia",
+      "surname": "Cash",
+      "honorific": "Senator the Hon",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Western Australia",
+      "state": "WA",
+      "titles": [
+        "Leader of the Opposition in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 9226 2000",
+      "officeSuburb": "West Perth",
+      "officePostcode": "6005",
+      "officeLines": [
+        "44 Outram Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cash"
+    },
+    {
+      "id": "senate:wa:cox-dorinda",
+      "chamber": "senate",
+      "name": "Dorinda Cox",
+      "firstName": "Dorinda",
+      "surname": "Cox",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Western Australia",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 9228 3277",
+      "officeSuburb": "Ardross",
+      "officePostcode": "6153",
+      "officeLines": [
+        "Shop 5",
+        "13 Riseley Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Cox"
+    },
+    {
+      "id": "senate:wa:ghosh-varun",
+      "chamber": "senate",
+      "name": "Varun Ghosh",
+      "firstName": "Varun",
+      "surname": "Ghosh",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Western Australia",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 6245 3323",
+      "officeSuburb": "West Perth",
+      "officePostcode": "6005",
+      "officeLines": [
+        "Tenancy 2",
+        "1195 Hay Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Ghosh"
+    },
+    {
+      "id": "senate:wa:lines-sue",
+      "chamber": "senate",
+      "name": "Sue Lines",
+      "firstName": "Sue",
+      "surname": "Lines",
+      "honorific": "Senator the Hon",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Western Australia",
+      "state": "WA",
+      "titles": [
+        "President of the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 9481 4844",
+      "officeSuburb": "West Perth",
+      "officePostcode": "6005",
+      "officeLines": [
+        "51 Ord Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Lines"
+    },
+    {
+      "id": "senate:wa:o-sullivan-matt",
+      "chamber": "senate",
+      "name": "Matt O'Sullivan",
+      "firstName": "Matt",
+      "surname": "O'Sullivan",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Western Australia",
+      "state": "WA",
+      "titles": [
+        "Deputy Manager of Opposition Business in the Senate"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 9226 5387",
+      "officeSuburb": "Success",
+      "officePostcode": "6164",
+      "officeLines": [
+        "Unit 10, Cockburn Gateway Shopping Centre",
+        "816 Beeliar Drive"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=O%27Sullivan"
+    },
+    {
+      "id": "senate:wa:payman-fatima",
+      "chamber": "senate",
+      "name": "Fatima Payman",
+      "firstName": "Fatima",
+      "surname": "Payman",
+      "honorific": "Senator",
+      "party": "Australia's Voice",
+      "partyCode": "AV",
+      "electorate": "Western Australia",
+      "state": "WA",
+      "titles": [
+        "Australia's Voice Whip"
+      ],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 6245 3322",
+      "officeSuburb": "Perth",
+      "officePostcode": "6000",
+      "officeLines": [
+        "Commonwealth Parliamentary Offices, Level 7, Suite 4 and 5",
+        "1 The Esplanade"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Payman"
+    },
+    {
+      "id": "senate:wa:smith-dean",
+      "chamber": "senate",
+      "name": "Dean Smith",
+      "firstName": "Dean",
+      "surname": "Smith",
+      "honorific": "Senator",
+      "party": "Liberal Party",
+      "partyCode": "LP",
+      "electorate": "Western Australia",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 9343 4108",
+      "officeSuburb": "Greenwood",
+      "officePostcode": "6024",
+      "officeLines": [
+        "Unit 2, 91-97 Wanneroo Road"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Smith"
+    },
+    {
+      "id": "senate:wa:steele-john-jordon",
+      "chamber": "senate",
+      "name": "Jordon Steele-John",
+      "firstName": "Jordon",
+      "surname": "Steele-John",
+      "honorific": "Senator",
+      "party": "Australian Greens",
+      "partyCode": "AG",
+      "electorate": "Western Australia",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 6245 3310",
+      "officeSuburb": "Perth",
+      "officePostcode": "6000",
+      "officeLines": [
+        "Office 1.19, Level 1",
+        "140 William Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Steele-John"
+    },
+    {
+      "id": "senate:wa:sterle-glenn",
+      "chamber": "senate",
+      "name": "Glenn Sterle",
+      "firstName": "Glenn",
+      "surname": "Sterle",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Western Australia",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 9455 1420",
+      "officeSuburb": "Booragoon",
+      "officePostcode": "6154",
+      "officeLines": [
+        "Units G2 and G3",
+        "150-152 Riseley Street"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Sterle"
+    },
+    {
+      "id": "senate:wa:whiteaker-ellie",
+      "chamber": "senate",
+      "name": "Ellie Whiteaker",
+      "firstName": "Ellie",
+      "surname": "Whiteaker",
+      "honorific": "Senator",
+      "party": "Australian Labor Party",
+      "partyCode": "ALP",
+      "electorate": "Western Australia",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 9277 1502",
+      "officeSuburb": "Belmont",
+      "officePostcode": "6104",
+      "officeLines": [
+        "183 Great Eastern Highway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Whiteaker"
+    },
+    {
+      "id": "senate:wa:whitten-tyron",
+      "chamber": "senate",
+      "name": "Tyron Whitten",
+      "firstName": "Tyron",
+      "surname": "Whitten",
+      "honorific": "Senator",
+      "party": "One Nation",
+      "partyCode": "ON",
+      "electorate": "Western Australia",
+      "state": "WA",
+      "titles": [],
+      "ministerialTitle": "",
+      "phoneParliament": "",
+      "phoneElectorate": "(08) 9477 5411",
+      "officeSuburb": "Rivervale",
+      "officePostcode": "6103",
+      "officeLines": [
+        "Suite C",
+        "117 Great Eastern Highway"
+      ],
+      "profileSearch": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian_Search_Results?q=Whitten"
+    }
+  ]
+}

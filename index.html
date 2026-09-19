@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self'; script-src 'self'; font-src 'self'; base-uri 'self'; form-action 'self'">
+  <title>Find who to write</title>
+  <meta name="description" content="Independent civic directory: Australian postcode or suburb to public federal contacts. You copy a draft and send it yourself. Not a government site. Not immigration assistance.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#q">Skip to search</a>
+
+  <header class="top">
+    <p class="kicker">Independent civic directory · 48th Parliament · not a government site · not immigration assistance</p>
+    <h1>Find who to write</h1>
+    <p class="lede">Search the Australian sponsor’s postcode or suburb. Public contacts only. Start with your MP. Drafts stay in your browser — this site does not email anyone or advise on visa criteria.</p>
+  </header>
+
+  <main>
+    <form id="search-form" class="search" role="search" autocomplete="off">
+      <label for="q">Postcode or suburb</label>
+      <div class="row">
+        <input id="q" name="q" type="search" placeholder="e.g. 2000 or Footscray" maxlength="48" aria-describedby="hint">
+        <button type="submit">Search</button>
+      </div>
+      <p id="hint">Not the offshore applicant’s address. Examples:
+        <button type="button" class="ex" data-q="2620">2620</button>
+        <button type="button" class="ex" data-q="2000">2000</button>
+        <button type="button" class="ex" data-q="Footscray">Footscray</button>
+      </p>
+      <ul id="suggest" class="suggest" hidden></ul>
+    </form>
+
+    <p id="status" class="status" role="status"></p>
+    <div id="results" hidden></div>
+  </main>
+
+  <aside class="letter" id="letter" hidden>
+    <div class="letter-inner">
+      <div class="letter-head">
+        <h2>Email draft</h2>
+        <button type="button" class="close" id="letter-close">Close</button>
+      </div>
+      <p class="to" id="letter-to"></p>
+
+      <label for="tpl">Which draft</label>
+      <select id="tpl">
+        <option value="first">First email to your MP</option>
+        <option value="followup">Follow-up after they replied</option>
+        <option value="chamber">Ask them to raise it in Parliament</option>
+        <option value="family">Family life and visitor visa</option>
+      </select>
+      <p class="tpl-hint" id="tpl-hint"></p>
+
+      <fieldset class="impact">
+        <legend>I am</legend>
+        <label><input type="radio" name="sponsor" value="citizen" checked> Australian citizen</label>
+        <label><input type="radio" name="sponsor" value="pr"> Permanent resident</label>
+      </fieldset>
+
+      <div class="fields">
+        <label>Your name <input id="sender" autocomplete="name"></label>
+        <label>Lodged <input id="lodged" placeholder="optional"></label>
+        <label>Home Affairs ref. <input id="href" placeholder="optional"></label>
+      </div>
+      <fieldset class="impact">
+        <legend>What is true — tick only those</legend>
+        <label><input type="checkbox" name="impact" value="together"> Cannot live in one home</label>
+        <label><input type="checkbox" name="impact" value="visitor"> Partner also blocked from a visitor visa</label>
+        <label><input type="checkbox" name="impact" value="housing"> Buying or renting on hold</label>
+        <label><input type="checkbox" name="impact" value="col"> Two households in this cost of living</label>
+        <label><input type="checkbox" name="impact" value="thirties"> 30s — peers buying homes / planning kids</label>
+        <label><input type="checkbox" name="impact" value="work"> Work or study on hold</label>
+        <label><input type="checkbox" name="impact" value="children"> Decisions about children</label>
+        <label><input type="checkbox" name="impact" value="health"> Strain on wellbeing</label>
+      </fieldset>
+
+      <p class="subj-row">
+        <span class="subj-label">Subject</span>
+        <code id="subject-line"></code>
+        <button type="button" id="copy-subject">Copy subject</button>
+      </p>
+
+      <label for="preview">Edit before you copy — nothing is sent from this page</label>
+      <textarea id="preview" rows="18"></textarea>
+
+      <div class="letter-actions">
+        <button type="button" id="copy-letter">Copy body</button>
+        <a id="aph-link" href="#" target="_blank" rel="noopener">APH profile</a>
+      </div>
+      <p class="fine">You send this from your own email. This site does not write to Parliament or Home Affairs for you, and it is not immigration assistance. Do not attach passports or health files unless the office asks. <a href="legal.html">Legal and privacy</a></p>
+    </div>
+  </aside>
+
+  <footer>
+    <p>Contacts: Parliament of Australia address CSVs, Sep 2026. Localities: AEC-derived. Confirm a split postcode on the <a href="https://electorate.aec.gov.au/" rel="noopener">AEC site</a>.</p>
+    <p class="links"><a href="legal.html">Legal and privacy</a> · Independent · GitHub Pages static host · does not collect visa file numbers</p>
+  </footer>
+  <script src="app.js" type="module"></script>
+</body>
+</html>

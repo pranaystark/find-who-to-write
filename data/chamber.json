@@ -1,0 +1,136 @@
+{
+  "generated": "2026-09-19",
+  "source": "APH committee membership, 48th Parliament",
+  "committees": [
+    {
+      "id": "jscm",
+      "name": "Joint Standing Committee on Migration",
+      "short": "Migration committee",
+      "why": "Can inquire into migration and put offshore partner-visa delays on the parliamentary record. Includes government, opposition, Greens and an independent — not only ministers.",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Migration",
+      "members": [
+        { "id": "house:adelaide", "role": "Chair" },
+        { "id": "house:mcpherson", "role": "Deputy Chair" },
+        { "id": "senate:vic:ananda-rajah-michelle", "role": "Member" },
+        { "id": "senate:sa:blyth-leah", "role": "Member" },
+        { "id": "house:fadden", "role": "Member" },
+        { "id": "senate:tas:dolega-josh", "role": "Member" },
+        { "id": "house:holt", "role": "Member" },
+        { "id": "house:fowler", "role": "Member" },
+        { "id": "house:boothby", "role": "Member" },
+        { "id": "senate:nsw:shoebridge-david", "role": "Member" }
+      ]
+    },
+    {
+      "id": "lca-leg",
+      "name": "Senate Legal and Constitutional Affairs Legislation Committee",
+      "short": "Home Affairs estimates",
+      "why": "This committee questions Home Affairs at Senate estimates. Any senator may attend; these six sit on it.",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Legal_and_Constitutional_Affairs/Legislation_Committee_Membership",
+      "members": [
+        { "id": "senate:vic:stewart-jana", "role": "Chair" },
+        { "id": "senate:sa:blyth-leah", "role": "Deputy Chair" },
+        { "id": "senate:wa:cox-dorinda", "role": "Member" },
+        { "id": "senate:sa:mclachlan-andrew", "role": "Member" },
+        { "id": "senate:tas:polley-helen", "role": "Member" },
+        { "id": "senate:nsw:shoebridge-david", "role": "Member" }
+      ]
+    }
+  ],
+  "pillars": [
+    {
+      "id": "parliament",
+      "title": "1. Parliament",
+      "blurb": "Your MP, the migration committee, and senators. This is the path that most often produces a real departmental enquiry. Use the tabs above. Opposition and crossbench count.",
+      "tab": "mp"
+    },
+    {
+      "id": "watchdogs",
+      "title": "2. Watchdogs",
+      "blurb": "A rights or delay complaint is a record. Your MP is the enquiry. The Commission and Ombudsman do not grant 309s and rarely shorten the queue.",
+      "links": [
+        {
+          "title": "Commonwealth Ombudsman",
+          "blurb": "Complaint about Home Affairs delay or process. Not a grant, not a queue jump.",
+          "url": "https://www.ombudsman.gov.au/",
+          "label": "Ombudsman"
+        },
+        {
+          "title": "Australian Human Rights Commission",
+          "blurb": "Family-life complaint about Commonwealth action. Slow. Unlikely to move your file. Use measured language — ‘engages family life’, not ‘violation’.",
+          "url": "https://humanrights.gov.au/our-work/complaint-information-service",
+          "label": "AHRC complaints"
+        }
+      ],
+      "note": "Courts do not run the 309 queue. Do not file from this site. A registered lawyer is the only person to ask about unreasonable delay."
+    },
+    {
+      "id": "community",
+      "title": "3. Community",
+      "blurb": "Peak bodies can amplify many similar stories. They will not casework your application.",
+      "links": [
+        {
+          "title": "FECCA",
+          "blurb": "Federation of Ethnic Communities' Councils — national multicultural voice.",
+          "url": "https://fecca.org.au/",
+          "label": "fecca.org.au"
+        },
+        {
+          "title": "Migration Institute of Australia",
+          "blurb": "Professionals' body. Policy submissions, not a free agent for your file.",
+          "url": "https://mia.org.au/",
+          "label": "mia.org.au"
+        },
+        {
+          "title": "Find a registered migration agent",
+          "blurb": "MARA register — paid advice if you need it. This site is not immigration assistance.",
+          "url": "https://portal.mara.gov.au/find-an-agent/",
+          "label": "MARA find an agent"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "4. Media",
+      "blurb": "One local or national desk, facts, your suburb, no pile-on. A journalist is not your caseworker. Never send visa documents unasked.",
+      "links": [
+        {
+          "title": "ABC News contact",
+          "blurb": "National and local ABC newsrooms.",
+          "url": "https://www.abc.net.au/news/contact/",
+          "label": "ABC contact"
+        },
+        {
+          "title": "SBS News",
+          "blurb": "Often covers migrant families and non-English speaking audiences.",
+          "url": "https://www.sbs.com.au/aboutus/contact-us/",
+          "label": "SBS contact"
+        }
+      ],
+      "note": "Pitch in six lines: who you are, suburb, 309 wait, Direction 117, what you want understood (home, living together, strain). Offer to talk. Do not attach passports."
+    }
+  ],
+  "help": [
+    {
+      "title": "Family visa processing order (Direction 117)",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/visa-processing-priorities/family-visa"
+    },
+    {
+      "title": "Global visa processing times",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/global-visa-processing-times"
+    },
+    {
+      "title": "Visitor visa (subclass 600)",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600"
+    },
+    {
+      "title": "Partner visa FAQs",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/partner-visa-frequently-asked-questions"
+    }
+  ],
+  "support": {
+    "blurb": "If the wait is affecting your safety or you need to talk: Lifeline 13 11 14.",
+    "url": "https://www.lifeline.org.au/",
+    "label": "Lifeline"
+  }
+}
