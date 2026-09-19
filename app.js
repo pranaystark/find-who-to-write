@@ -281,12 +281,13 @@ function card(p, extraTags, note) {
     <div class="tags">${tags}</div>
     ${office ? `<p class="office">${escapeHtml(office)}</p>` : ""}
     <div class="actions">
-      <a class="primary" href="${escapeHtml(contact)}" target="_blank" rel="noopener">Contact via APH</a>
+      <a class="primary" href="${escapeHtml(contact)}" target="_blank" rel="noopener">APH contact form</a>
+      <a href="${escapeHtml(profile)}" target="_blank" rel="noopener">APH profile</a>
       <button type="button" data-letter="${escapeHtml(p.id)}">Draft first</button>
       ${telE ? `<a href="${telE}">${escapeHtml(p.phoneElectorate)}</a>` : ""}
       ${telP ? `<a href="${telP}">Parliament ${escapeHtml(p.phoneParliament)}</a>` : ""}
-      <a href="${escapeHtml(profile)}" target="_blank" rel="noopener">Profile</a>
     </div>
+    <p class="office">If APH says the form is disabled, use the profile or phone — some offices turn the form off.</p>
   </article>`;
 }
 
@@ -633,7 +634,12 @@ function openLetter(id) {
   el.classList.add("is-open");
   $("letter-to").textContent = `${p.name} · ${p.electorate} · ${PARTY_SHORT[p.partyCode] || p.partyCode}`;
   $("aph-link").href = p.contactUrl || p.profileUrl || p.profileSearch;
-  $("aph-link").textContent = p.contactUrl ? "Open APH contact form" : "APH profile";
+  $("aph-link").textContent = "APH contact form";
+  const prof = $("aph-profile");
+  if (prof) {
+    prof.href = p.profileUrl || p.profileSearch || "#";
+    prof.hidden = !(p.profileUrl || p.profileSearch);
+  }
   $("tpl").value = defaultTpl();
   $("tpl-hint").textContent = TPL_HINT[$("tpl").value];
   refreshPreview();
